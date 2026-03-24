@@ -7,7 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/mathieukessler/awesome-copilot-studio-agents?style=flat-square)](https://github.com/mathieukessler/awesome-copilot-studio-agents/stargazers)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-> **39 agents built. 44 on the roadmap.** See [AGENTS.md](AGENTS.md) for the full library plan.
+> **39 agents built. 71 on the roadmap.** See [AGENTS.md](AGENTS.md) for the full library plan.
 
 ---
 
@@ -27,10 +27,10 @@ Want to go beyond agents? **AI Quick Start Essentials** is a free 35-minute cour
 
 ## What This Is
 
-A curated library of instruction sets for [Microsoft 365 Copilot declarative agents](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/overview-declarative-agent). Each agent is a paste-ready instruction block, battle-tested and ready to deploy without configuration files, coding, or Azure resources.
+A curated library of instruction sets for [Microsoft 365 Copilot declarative agents](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/overview-declarative-agent). Each agent is a paste-ready instruction block, ready to deploy without configuration files, coding, or Azure resources.
 
 Every agent in this library:
-- Works with a standard M365 Copilot licence (no premium required for declarative agents)
+- Requires a Microsoft 365 Copilot licence (the paid add-on — not included in standard M365 plans)
 - Defaults to formal professional English (British spelling)
 - Supports French output — write in French or ask for French output explicitly
 - Includes a banned vocabulary list to prevent AI-sounding language
@@ -93,11 +93,25 @@ Every agent in this library:
 | 14 | [**Financial Report Writer**](agents/finance/financial-report-writer.md) | Draft management accounts commentary and board pack sections | Finance / Leadership | None | `@Financial Report Writer ...` |
 | 15 | [**Budget Variance Analyst**](agents/finance/budget-variance-analyst.md) | Explain budget vs actual variances for management reporting | Finance / Controllers | None | `@Budget Variance Analyst ...` |
 
+### IT & Operations
+
+| # | Agent | Description | Audience | Knowledge | Invoke |
+|---|-------|-------------|----------|-----------|--------|
+| 18 | [**Incident Report Writer**](agents/it-ops/incident-report-writer.md) | Write IT incident post-mortems and reports | IT / Ops | None | `@Incident Report Writer ...` |
+| 19 | [**Change Request Writer**](agents/it-ops/change-request-writer.md) | Write IT change management requests and CAB submissions | IT / Change Managers | None | `@Change Request Writer ...` |
+
+### Customer Success
+
+| # | Agent | Description | Audience | Knowledge | Invoke |
+|---|-------|-------------|----------|-----------|--------|
+| 20 | [**Escalation Handler**](agents/customer-success/escalation-handler.md) | Manage customer escalations with structured internal and external comms | CS / Account Managers | None | `@Escalation Handler ...` |
+| 21 | [**Customer Response Writer**](agents/customer-success/customer-response-writer.md) | Write professional responses to customer queries and complaints | CS / Support | None | `@Customer Response Writer ...` |
+
 ### Sales & Business Development
 
 | # | Agent | Description | Audience | Knowledge | Invoke |
 |---|-------|-------------|----------|-----------|--------|
-| 16 | [**Proposal Writer**](agents/sales/proposal-writer.md) | Write RFP responses and business proposals | Sales / BD | None | `@Proposal Writer ...` |
+| 16 | [**RFP Response Writer**](agents/sales/rfp-response-writer.md) | Write RFP responses and business proposals | Sales / BD | None | `@RFP Response Writer ...` |
 | 17 | [**Sales Email Writer**](agents/sales/sales-email-writer.md) | Write outbound prospecting and follow-up emails | Sales / AEs | None | `@Sales Email Writer ...` |
 | 22 | [**Account Plan Writer**](agents/sales/account-plan-writer.md) | Build structured account plans with stakeholder maps and relationship gaps | Account Managers / BD | None | `@Account Plan Writer ...` |
 | 23 | [**Win/Loss Analyser**](agents/sales/win-loss-analyser.md) | Analyse deal outcomes to surface patterns and strategic insights | Sales Leaders / Revenue Ops | None | `@Win Loss Analyser ...` |
@@ -133,20 +147,6 @@ Every agent in this library:
 | 38 | [**Materiality Assessment Writer**](agents/esg/materiality-assessment-writer.md) | Structure double materiality assessments for ESRS, GRI, and TCFD | Sustainability Teams / Legal | None | `@Materiality Assessment ...` |
 | 39 | [**ESG Commitment Tracker**](agents/esg/esg-commitment-tracker.md) | Track ESG commitments and produce progress reports with RAG status | Sustainability Teams / Board | None | `@ESG Commitment Tracker ...` |
 
-### IT & Operations
-
-| # | Agent | Description | Audience | Knowledge | Invoke |
-|---|-------|-------------|----------|-----------|--------|
-| 18 | [**Incident Report Writer**](agents/it-ops/incident-report-writer.md) | Write IT incident post-mortems and reports | IT / Ops | None | `@Incident Report Writer ...` |
-| 19 | [**Change Request Writer**](agents/it-ops/change-request-writer.md) | Write IT change management requests and CAB submissions | IT / Change Managers | None | `@Change Request Writer ...` |
-
-### Customer Success
-
-| # | Agent | Description | Audience | Knowledge | Invoke |
-|---|-------|-------------|----------|-----------|--------|
-| 20 | [**Escalation Handler**](agents/customer-success/escalation-handler.md) | Manage customer escalations with structured internal and external comms | CS / Account Managers | None | `@Escalation Handler ...` |
-| 21 | [**Customer Response Writer**](agents/customer-success/customer-response-writer.md) | Write professional responses to customer queries and complaints | CS / Support | None | `@Customer Response Writer ...` |
-
 ---
 
 ## Industry Packs
@@ -171,7 +171,7 @@ A complete 13-agent suite built for Engineering, Procurement, and Construction p
 
 ## Full Roadmap
 
-The library is planned to grow to 44 agents across 10 domains including Commercial & Legal, additional HR agents, IT & Digital expansion, vertical packs (Healthcare, Legal, NGO/Public Sector), and 4 MCP-enabled advanced agents.
+The library is planned to grow to 71 agents across 12 domains including Commercial & Legal, additional HR and PM agents, IT & Digital expansion, vertical packs (Healthcare, Legal, NGO/Public Sector), and 4 MCP-enabled advanced agents.
 
 See [AGENTS.md](AGENTS.md) for the complete planned agent list with descriptions and build priority.
 

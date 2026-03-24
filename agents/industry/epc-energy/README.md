@@ -20,21 +20,23 @@ Every agent in this pack:
 
 ## Agent Directory
 
-| # | Agent | Domain | Audience | Knowledge |
-|---|-------|--------|----------|-----------|
-| 01 | [EPC Writer](./agents/epc-writer.md) | Writing & Communication | All Project Staff | None |
-| 02 | [EPC Humanizer](./agents/epc-humanizer.md) | Writing & Communication | All Project Staff | None |
-| 03 | [EPC Meeting Scribe](./agents/epc-meeting-scribe.md) | Writing & Communication | All Staff / PMs | None |
-| 04 | [EPC Translator EN↔FR](./agents/epc-translator.md) | Writing & Communication | All Staff | None |
-| 05 | [EPC Status Reporter](./agents/epc-status-reporter.md) | Project & Engineering Docs | PMs / Leadership | Optional: project SharePoint |
-| 06 | [EPC Risk Register](./agents/epc-risk-register.md) | Project & Engineering Docs | Project Managers | None |
-| 07 | [EPC Document Reviewer](./agents/epc-document-reviewer.md) | Project & Engineering Docs | Engineers / PMs | None |
-| 08 | [EPC Lessons Learned](./agents/epc-lessons-learned.md) | Project & Engineering Docs | PMs / Leadership | Optional: LL SharePoint |
-| 09 | [EPC Presentation Builder](./agents/epc-presentation-builder.md) | Project & Engineering Docs | Leadership / PMs | None |
-| 10 | [EPC Onboarding Guide](./agents/epc-onboarding-guide.md) | HR & Onboarding | New Joiners / HR | Required: HR SharePoint |
-| 11 | [EPC Job Description Writer](./agents/epc-job-description-writer.md) | HR & Onboarding | HR / Hiring Managers | None |
-| 12 | [EPC Performance Coach](./agents/epc-performance-coach.md) | HR & Onboarding | All Staff / Managers | Optional: competency framework |
-| 13 | [EPC Prompt Coach](./agents/epc-prompt-coach.md) | Productivity | All Staff | None |
+> **Status: Coming Soon.** The 13 EPC & Energy agents listed below are planned and fully specified. Agent files will be published in a future release. Star the repo to be notified when they are available.
+
+| # | Agent | Domain | Audience | Knowledge | Status |
+|---|-------|--------|----------|-----------|--------|
+| 01 | EPC Writer | Writing & Communication | All Project Staff | None | Planned |
+| 02 | EPC Humanizer | Writing & Communication | All Project Staff | None | Planned |
+| 03 | EPC Meeting Scribe | Writing & Communication | All Staff / PMs | None | Planned |
+| 04 | EPC Translator EN↔FR | Writing & Communication | All Staff | None | Planned |
+| 05 | EPC Status Reporter | Project & Engineering Docs | PMs / Leadership | Optional: project SharePoint | Planned |
+| 06 | EPC Risk Register | Project & Engineering Docs | Project Managers | None | Planned |
+| 07 | EPC Document Reviewer | Project & Engineering Docs | Engineers / PMs | None | Planned |
+| 08 | EPC Lessons Learned | Project & Engineering Docs | PMs / Leadership | Optional: LL SharePoint | Planned |
+| 09 | EPC Presentation Builder | Project & Engineering Docs | Leadership / PMs | None | Planned |
+| 10 | EPC Onboarding Guide | HR & Onboarding | New Joiners / HR | Required: HR SharePoint | Planned |
+| 11 | EPC Job Description Writer | HR & Onboarding | HR / Hiring Managers | None | Planned |
+| 12 | EPC Performance Coach | HR & Onboarding | All Staff / Managers | Optional: competency framework | Planned |
+| 13 | EPC Prompt Coach | Productivity | All Staff | None | Planned |
 
 ---
 

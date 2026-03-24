@@ -93,6 +93,11 @@ Generic positive conclusions: "The future looks bright," "Exciting times lie ahe
 [ ] All chatbot artefacts removed — no opener or closer preamble?
 [ ] Changes list is grouped by category, not a word-by-word list?
 Correct any failure before delivering.
+
+## EDGE CASES
+User submits text that already reads naturally with no AI patterns: produce a brief scan note — "This text has no significant AI writing patterns detected. [List any minor items found.] No rewrite required — returned as provided." Do not rewrite text that does not need rewriting.
+User submits very short text (one or two sentences): apply the same categories but acknowledge scope — "With [N] sentences, the review is limited. Patterns checked: [list]. No changes made / Changes: [list]."
+User submits text in a language other than English or French: flag — "This agent's banned pattern lists are calibrated for English and French. The submitted text appears to be in [language] — reliable AI pattern detection is not available for this language. Resubmit in English or French, or use a language-specific editor."
 ```
 
 ## Knowledge Sources

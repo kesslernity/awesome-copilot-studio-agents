@@ -1,6 +1,6 @@
 # Agent Library — Full Roadmap
 
-> **44 agents across 12 domains.**
+> **39 agents built. 71 on the roadmap.**
 > This file is the master planning document for the library.
 > Built agents link to their files. Planned agents are marked with their build priority.
 
@@ -24,9 +24,9 @@
 |-------|--------|-------|
 | Phase 1 ✅ | 01–21 | Core horizontal — writing, project management, finance, HR, IT, sales |
 | Phase 2 ✅ | 22–39 | Sales expansion, strategy & executive, learning & development, ESG |
-| Phase 3 | 40–43 | HR expansion, commercial/legal, IT & digital, writing expansion |
-| Phase 4 | 44+ | Vertical packs (Healthcare, Legal, NGO/Public Sector) |
-| Phase 5 | 45–48 | Advanced / MCP-enabled (build after instruction-only library is stable) |
+| Phase 3 | 40–58 | Writing, PM, HR, Finance, and IT expansions |
+| Phase 4 | — | Vertical packs (Healthcare, Legal, NGO/Public Sector) — numbered when built |
+| Phase 5 | 59–62 | Advanced / MCP-enabled (build after instruction-only library is stable) |
 
 ---
 
@@ -52,12 +52,12 @@
 | 07 | ✅ | Document Reviewer | [agents/project-management/document-reviewer.md](agents/project-management/document-reviewer.md) |
 | 08 | ✅ | Lessons Learned Manager | [agents/project-management/lessons-learned-manager.md](agents/project-management/lessons-learned-manager.md) |
 | 09 | ✅ | Presentation Builder | [agents/project-management/presentation-builder.md](agents/project-management/presentation-builder.md) |
-| 22 | 🟢 | Project Charter Writer | Builds a structured project charter from a brief: objectives, scope, stakeholders, constraints, milestones, budget envelope, governance. |
-| 23 | 🟢 | RAID Log Manager | Generates and updates RAID logs (Risks, Assumptions, Issues, Dependencies) from meeting notes or project updates. |
-| 24 | 🟢 | Scope of Work Drafter | Builds a first-draft SOW from a requirement list: scope inclusions, exclusions, interfaces, deliverables, assumptions. |
-| 25 | 🟢 | Meeting Pre-Brief Builder | The inverse of a meeting scribe. Takes an agenda and pre-reads; produces a briefing for attendees: decisions needed, known positions, open questions, each attendee's expected contribution. |
-| 26 | 🔵 | Action Register Tracker | Extracts all actions from any input and produces a numbered register with owner, due date, priority, and status. Flags stale or ownerless items. |
-| 27 | 🟢 | Project Closure Report Writer | Structures project closeout documentation: final scope vs baseline, budget outturn, schedule variance, key achievements, lessons learned summary, outstanding items. |
+| 42 | 🟢 | Project Charter Writer | Builds a structured project charter from a brief: objectives, scope, stakeholders, constraints, milestones, budget envelope, governance. |
+| 43 | 🟢 | RAID Log Manager | Generates and updates RAID logs (Risks, Assumptions, Issues, Dependencies) from meeting notes or project updates. |
+| 44 | 🟢 | Scope of Work Drafter | Builds a first-draft SOW from a requirement list: scope inclusions, exclusions, interfaces, deliverables, assumptions. |
+| 45 | 🟢 | Meeting Pre-Brief Builder | The inverse of a meeting scribe. Takes an agenda and pre-reads; produces a briefing for attendees: decisions needed, known positions, open questions, each attendee's expected contribution. |
+| 46 | 🔵 | Action Register Tracker | Extracts all actions from any input and produces a numbered register with owner, due date, priority, and status. Flags stale or ownerless items. |
+| 47 | 🟢 | Project Closure Report Writer | Structures project closeout documentation: final scope vs baseline, budget outturn, schedule variance, key achievements, lessons learned summary, outstanding items. |
 
 ---
 
@@ -68,11 +68,11 @@
 | 10 | ✅ | Employee Onboarding Guide | [agents/hr-people/employee-onboarding-guide.md](agents/hr-people/employee-onboarding-guide.md) |
 | 11 | ✅ | Job Description Writer | [agents/hr-people/job-description-writer.md](agents/hr-people/job-description-writer.md) |
 | 12 | ✅ | Performance Coach | [agents/hr-people/performance-coach.md](agents/hr-people/performance-coach.md) |
-| 28 | 🟢 | Interview Question Builder | Generates structured, competency-based interview questions for a given role, mapped to a competency framework. |
-| 29 | 🟢 | Probation Review Assistant | Helps managers structure 3-month and 6-month probation review conversations. |
-| 30 | 🟢 | Redundancy Communication Writer | Drafts formal redundancy and restructure communications. Legally measured tone, separate templates for at-risk notification, confirmation, and appeals. |
-| 31 | 🟢 | Exit Interview Analyser | Converts exit interview notes into a structured themes report: top reasons for leaving, patterns, recommended actions. |
-| 32 | 🔵 | Org Announcement Writer | Drafts internal announcements for org changes: new hires, promotions, departures, restructures, leadership changes. |
+| 48 | 🟢 | Interview Question Builder | Generates structured, competency-based interview questions for a given role, mapped to a competency framework. |
+| 49 | 🟢 | Probation Review Assistant | Helps managers structure 3-month and 6-month probation review conversations. |
+| 50 | 🟢 | Redundancy Communication Writer | Drafts formal redundancy and restructure communications. Legally measured tone, separate templates for at-risk notification, confirmation, and appeals. |
+| 51 | 🟢 | Exit Interview Analyser | Converts exit interview notes into a structured themes report: top reasons for leaving, patterns, recommended actions. |
+| 52 | 🔵 | Org Announcement Writer | Drafts internal announcements for org changes: new hires, promotions, departures, restructures, leadership changes. |
 
 ---
 
@@ -90,9 +90,9 @@
 |---|--------|-------|------|
 | 14 | ✅ | Financial Report Writer | [agents/finance/financial-report-writer.md](agents/finance/financial-report-writer.md) |
 | 15 | ✅ | Budget Variance Analyst | [agents/finance/budget-variance-analyst.md](agents/finance/budget-variance-analyst.md) |
-| 33 | 🟢 | Budget Justification Writer | Converts a cost item list into a formal budget justification: rationale per item, alternatives considered, risk of non-approval. |
-| 34 | 🟢 | Board Paper Writer | Structures board-level papers: purpose, background, analysis, recommendation, financial implications, risks, resolution required. |
-| 35 | 🟢 | KPI Commentary Writer | Takes KPI results (figures, RAG statuses) and writes management commentary: performance vs target, root cause, forward outlook. |
+| 53 | 🟢 | Budget Justification Writer | Converts a cost item list into a formal budget justification: rationale per item, alternatives considered, risk of non-approval. |
+| 54 | 🟢 | Board Paper Writer | Structures board-level papers: purpose, background, analysis, recommendation, financial implications, risks, resolution required. |
+| 55 | 🟢 | KPI Commentary Writer | Takes KPI results (figures, RAG statuses) and writes management commentary: performance vs target, root cause, forward outlook. |
 
 ---
 
@@ -100,7 +100,7 @@
 
 | # | Status | Agent | File |
 |---|--------|-------|------|
-| 16 | ✅ | Proposal Writer | [agents/sales/proposal-writer.md](agents/sales/proposal-writer.md) |
+| 16 | ✅ | RFP Response Writer | [agents/sales/rfp-response-writer.md](agents/sales/rfp-response-writer.md) |
 | 17 | ✅ | Sales Email Writer | [agents/sales/sales-email-writer.md](agents/sales/sales-email-writer.md) |
 | 22 | ✅ | Account Plan Writer | [agents/sales/account-plan-writer.md](agents/sales/account-plan-writer.md) |
 | 23 | ✅ | Win/Loss Analyser | [agents/sales/win-loss-analyser.md](agents/sales/win-loss-analyser.md) |
@@ -150,9 +150,9 @@
 |---|--------|-------|------|
 | 18 | ✅ | Incident Report Writer | [agents/it-ops/incident-report-writer.md](agents/it-ops/incident-report-writer.md) |
 | 19 | ✅ | Change Request Writer | [agents/it-ops/change-request-writer.md](agents/it-ops/change-request-writer.md) |
-| 36 | 🟢 | IT Request Scoper | Helps non-technical staff write clear IT service requests and business cases. |
-| 37 | 🟢 | Runbook Writer | Converts bullet-point operational procedures into structured runbooks: trigger, prerequisites, steps, verification, rollback, escalation contacts. |
-| 38 | 🟢 | Security Risk Communicator | Translates technical security findings (vulnerability scans, pen test results, audit findings) into plain-language risk summaries for non-security leadership. |
+| 56 | 🟢 | IT Request Scoper | Helps non-technical staff write clear IT service requests and business cases. |
+| 57 | 🟢 | Runbook Writer | Converts bullet-point operational procedures into structured runbooks: trigger, prerequisites, steps, verification, rollback, escalation contacts. |
+| 58 | 🟢 | Security Risk Communicator | Translates technical security findings (vulnerability scans, pen test results, audit findings) into plain-language risk summaries for non-security leadership. |
 
 ---
 
@@ -198,10 +198,10 @@
 
 | # | Status | Agent | Requires | Description |
 |---|--------|-------|----------|-------------|
-| 41 | 🔴 | SharePoint Knowledge Agent | SharePoint via Graph | Answers questions grounded in a connected SharePoint site. Cites source document and section for every answer. |
-| 42 | 🔴 | Email Triage Assistant | Outlook via Graph API | Classifies, summarises, and drafts responses to unread emails by urgency and type. Never sends without explicit confirmation. |
-| 43 | 🔴 | Meeting Intelligence Agent | Teams transcripts via Graph | Automatically produces structured records (decisions, actions, risks) from Teams meeting transcripts. |
-| 44 | 🔴 | Cross-Agent Orchestrator | All agents in library | Routes user requests to the correct specialist agent based on intent. Single entry point that delegates to any agent in the library. |
+| 59 | 🔴 | SharePoint Knowledge Agent | SharePoint via Graph | Answers questions grounded in a connected SharePoint site. Cites source document and section for every answer. |
+| 60 | 🔴 | Email Triage Assistant | Outlook via Graph API | Classifies, summarises, and drafts responses to unread emails by urgency and type. Never sends without explicit confirmation. |
+| 61 | 🔴 | Meeting Intelligence Agent | Teams transcripts via Graph | Automatically produces structured records (decisions, actions, risks) from Teams meeting transcripts. |
+| 62 | 🔴 | Cross-Agent Orchestrator | All agents in library | Routes user requests to the correct specialist agent based on intent. Single entry point that delegates to any agent in the library. |
 
 ---
 
@@ -210,9 +210,9 @@
 | Status | Count |
 |--------|-------|
 | Built ✅ | 39 |
-| Planned 🟢🔵🟡 | 23 |
+| Planned 🟢🔵🟡 | 28 |
 | Advanced / MCP 🔴 | 4 |
-| **Total roadmap** | **66** |
+| **Total roadmap** | **71** |
 
 ---
 

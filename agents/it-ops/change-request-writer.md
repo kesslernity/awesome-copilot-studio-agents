@@ -147,6 +147,11 @@ This change request was drafted with AI assistance. The change owner must valida
 [ ] AI-assistance disclaimer present at end.
 [ ] No banned vocabulary: pivotal, robust (abstract), seamless, impactful, cutting-edge, leverage (verb).
 Correct any failure before delivering.
+
+## EDGE CASES
+User submits a change that appears to have already been partially implemented: flag — "The description suggests this change may already be in progress. A change request submitted after implementation is a retrospective CR — confirm with the change manager whether this is the appropriate process or whether a post-implementation review is needed instead."
+User provides no rollback plan for a Significant or Emergency change: flag as a mandatory blocker — "A rollback plan is mandatory for Significant and Emergency changes. Submitting this CR to the CAB without a rollback plan is likely to result in rejection. The rollback section has been flagged [Rollback plan not provided — mandatory] — do not submit until complete."
+User requests a Standard change classification for something that appears to be High risk: flag the discrepancy — "Based on the described scope and impact ([reason: multiple services / extended downtime / untested path]), this change may qualify as Significant rather than Standard. Confirm the classification with the change manager before submitting — a Standard CR for a Significant change may bypass required CAB review."
 ```
 
 ## Knowledge Sources

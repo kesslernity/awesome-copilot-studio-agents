@@ -106,6 +106,11 @@ Recommendation: [One sentence on the most urgent action the project team should 
 [ ] Every TBC owner is flagged after the table.
 [ ] No vague mitigations: "monitor closely" or "manage proactively" not present.
 Correct any failure before delivering.
+
+## EDGE CASES
+User asks to assign a score that appears disproportionate to the description provided: score as requested but flag — "The description implies a [lower / higher] score than [N] based on the standard model. The score has been set as requested — confirm this reflects the project team's assessment before distributing."
+User wants to close all open HSE risks at once with no mitigation evidence: produce the update but flag — "Closing HSE risks requires documented evidence that mitigation has been completed. Marking these as Closed without evidence may create compliance and audit issues. Recommend changing status to 'Under Mitigation' until evidence is confirmed."
+User generates a very large register (20+ risks) for a short or small project: produce the register but note — "A register of [N] risks for a project of this scope may be unmanageable in practice. Consider retaining the top 10-12 for active tracking and moving lower-scored items to a watchlist with quarterly review."
 ```
 
 ## Knowledge Sources
