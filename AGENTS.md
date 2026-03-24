@@ -1,218 +1,201 @@
-# Agent Library — Full Roadmap
+# Agent Library
 
-> **39 agents built. 71 on the roadmap.**
-> This file is the master planning document for the library.
-> Built agents link to their files. Planned agents are marked with their build priority.
-
----
-
-## Legend
-
-| Symbol | Meaning |
-|--------|---------|
-| ✅ | Built and in the library |
-| 🟢 | Planned — new territory, no public equivalent |
-| 🔵 | Planned — extends the base suite |
-| 🟡 | Planned — vertical / industry-specific pack |
-| 🔴 | Planned — Advanced (requires MCP or Graph API connection) |
-
----
-
-## Build Priority
-
-| Phase | Agents | Focus |
-|-------|--------|-------|
-| Phase 1 ✅ | 01–21 | Core horizontal — writing, project management, finance, HR, IT, sales |
-| Phase 2 ✅ | 22–39 | Sales expansion, strategy & executive, learning & development, ESG |
-| Phase 3 | 40–58 | Writing, PM, HR, Finance, and IT expansions |
-| Phase 4 | — | Vertical packs (Healthcare, Legal, NGO/Public Sector) — numbered when built |
-| Phase 5 | 59–62 | Advanced / MCP-enabled (build after instruction-only library is stable) |
+> **71 agents across 13 domains.**
+> All agents are instruction-only and deploy in minutes via Copilot Studio.
+> Paste each instruction block into Copilot Studio → New agent → Instructions field.
 
 ---
 
 ## Writing & Communication
 
-| # | Status | Agent | File |
-|---|--------|-------|------|
-| 01 | ✅ | Enterprise Writer | [agents/writing-communication/enterprise-writer.md](agents/writing-communication/enterprise-writer.md) |
-| 02 | ✅ | AI Text Humanizer | [agents/writing-communication/ai-text-humanizer.md](agents/writing-communication/ai-text-humanizer.md) |
-| 03 | ✅ | Meeting Scribe | [agents/writing-communication/meeting-scribe.md](agents/writing-communication/meeting-scribe.md) |
-| 04 | ✅ | Professional Translator EN↔FR | [agents/writing-communication/professional-translator-en-fr.md](agents/writing-communication/professional-translator-en-fr.md) |
-| 40 | 🟢 | Executive Briefing Builder | Compresses long reports or email threads into a 1-page C-suite brief: situation, decision required, options, recommendation. |
-| 41 | 🔵 | Tone Calibrator | Adjusts the register of any text to match a specified audience without changing the substance. |
+| # | Agent | Description |
+|---|-------|-------------|
+| 01 | [Enterprise Writer](agents/writing-communication/enterprise-writer.md) | Draft and polish professional communications |
+| 02 | [AI Text Humanizer](agents/writing-communication/ai-text-humanizer.md) | Remove AI writing patterns from any text |
+| 03 | [Meeting Scribe](agents/writing-communication/meeting-scribe.md) | Turn meeting notes into structured records |
+| 04 | [Professional Translator EN↔FR](agents/writing-communication/professional-translator-en-fr.md) | Accurate English–French translation |
+| 40 | [Executive Briefing Builder](agents/writing-communication/executive-briefing-builder.md) | Compress long reports or email threads into a one-page C-suite brief |
+| 41 | [Tone Calibrator](agents/writing-communication/tone-calibrator.md) | Adjust the register of any text to match a specified audience |
 
 ---
 
 ## Project Management
 
-| # | Status | Agent | File |
-|---|--------|-------|------|
-| 05 | ✅ | Project Status Reporter | [agents/project-management/project-status-reporter.md](agents/project-management/project-status-reporter.md) |
-| 06 | ✅ | Risk Register Manager | [agents/project-management/risk-register-manager.md](agents/project-management/risk-register-manager.md) |
-| 07 | ✅ | Document Reviewer | [agents/project-management/document-reviewer.md](agents/project-management/document-reviewer.md) |
-| 08 | ✅ | Lessons Learned Manager | [agents/project-management/lessons-learned-manager.md](agents/project-management/lessons-learned-manager.md) |
-| 09 | ✅ | Presentation Builder | [agents/project-management/presentation-builder.md](agents/project-management/presentation-builder.md) |
-| 42 | 🟢 | Project Charter Writer | Builds a structured project charter from a brief: objectives, scope, stakeholders, constraints, milestones, budget envelope, governance. |
-| 43 | 🟢 | RAID Log Manager | Generates and updates RAID logs (Risks, Assumptions, Issues, Dependencies) from meeting notes or project updates. |
-| 44 | 🟢 | Scope of Work Drafter | Builds a first-draft SOW from a requirement list: scope inclusions, exclusions, interfaces, deliverables, assumptions. |
-| 45 | 🟢 | Meeting Pre-Brief Builder | The inverse of a meeting scribe. Takes an agenda and pre-reads; produces a briefing for attendees: decisions needed, known positions, open questions, each attendee's expected contribution. |
-| 46 | 🔵 | Action Register Tracker | Extracts all actions from any input and produces a numbered register with owner, due date, priority, and status. Flags stale or ownerless items. |
-| 47 | 🟢 | Project Closure Report Writer | Structures project closeout documentation: final scope vs baseline, budget outturn, schedule variance, key achievements, lessons learned summary, outstanding items. |
+| # | Agent | Description |
+|---|-------|-------------|
+| 05 | [Project Status Reporter](agents/project-management/project-status-reporter.md) | Generate structured project status reports |
+| 06 | [Risk Register Manager](agents/project-management/risk-register-manager.md) | Build and manage project risk registers |
+| 07 | [Document Reviewer](agents/project-management/document-reviewer.md) | Review documents for quality and completeness |
+| 08 | [Lessons Learned Manager](agents/project-management/lessons-learned-manager.md) | Convert retrospectives into structured lessons learned entries |
+| 09 | [Presentation Builder](agents/project-management/presentation-builder.md) | Build structured slide outlines for any audience |
+| 42 | [Project Charter Writer](agents/project-management/project-charter-writer.md) | Build a structured project charter from a brief |
+| 43 | [RAID Log Manager](agents/project-management/raid-log-manager.md) | Generate and update RAID logs from meeting notes or project updates |
+| 44 | [Scope of Work Drafter](agents/project-management/scope-of-work-drafter.md) | Build a first-draft SOW from a requirement list |
+| 45 | [Meeting Pre-Brief Builder](agents/project-management/meeting-pre-brief-builder.md) | Turn an agenda and pre-reads into a briefing for attendees |
+| 46 | [Action Register Tracker](agents/project-management/action-register-tracker.md) | Extract all actions from any input and produce a numbered register |
+| 47 | [Project Closure Report Writer](agents/project-management/project-closure-report-writer.md) | Structure project closeout documentation |
 
 ---
 
 ## HR & People
 
-| # | Status | Agent | File |
-|---|--------|-------|------|
-| 10 | ✅ | Employee Onboarding Guide | [agents/hr-people/employee-onboarding-guide.md](agents/hr-people/employee-onboarding-guide.md) |
-| 11 | ✅ | Job Description Writer | [agents/hr-people/job-description-writer.md](agents/hr-people/job-description-writer.md) |
-| 12 | ✅ | Performance Coach | [agents/hr-people/performance-coach.md](agents/hr-people/performance-coach.md) |
-| 48 | 🟢 | Interview Question Builder | Generates structured, competency-based interview questions for a given role, mapped to a competency framework. |
-| 49 | 🟢 | Probation Review Assistant | Helps managers structure 3-month and 6-month probation review conversations. |
-| 50 | 🟢 | Redundancy Communication Writer | Drafts formal redundancy and restructure communications. Legally measured tone, separate templates for at-risk notification, confirmation, and appeals. |
-| 51 | 🟢 | Exit Interview Analyser | Converts exit interview notes into a structured themes report: top reasons for leaving, patterns, recommended actions. |
-| 52 | 🔵 | Org Announcement Writer | Drafts internal announcements for org changes: new hires, promotions, departures, restructures, leadership changes. |
+| # | Agent | Description |
+|---|-------|-------------|
+| 10 | [Employee Onboarding Guide](agents/hr-people/employee-onboarding-guide.md) | Answer new joiner questions from a connected knowledge source |
+| 11 | [Job Description Writer](agents/hr-people/job-description-writer.md) | Write clear, inclusive job descriptions |
+| 12 | [Performance Coach](agents/hr-people/performance-coach.md) | Write SMART goals and structured performance feedback |
+| 48 | [Interview Question Builder](agents/hr-people/interview-question-builder.md) | Generate structured, competency-based interview questions |
+| 49 | [Probation Review Assistant](agents/hr-people/probation-review-assistant.md) | Help managers structure 3-month and 6-month probation reviews |
+| 50 | [Redundancy Communication Writer](agents/hr-people/redundancy-communication-writer.md) | Draft formal redundancy and restructure communications |
+| 51 | [Exit Interview Analyser](agents/hr-people/exit-interview-analyser.md) | Convert exit interview notes into a structured themes report |
+| 52 | [Org Announcement Writer](agents/hr-people/org-announcement-writer.md) | Draft internal announcements for org changes |
 
 ---
 
 ## Productivity
 
-| # | Status | Agent | File |
-|---|--------|-------|------|
-| 13 | ✅ | Copilot Prompt Coach | [agents/productivity/copilot-prompt-coach.md](agents/productivity/copilot-prompt-coach.md) |
+| # | Agent | Description |
+|---|-------|-------------|
+| 13 | [Copilot Prompt Coach](agents/productivity/copilot-prompt-coach.md) | Write and improve Copilot prompts |
 
 ---
 
 ## Finance & Reporting
 
-| # | Status | Agent | File |
-|---|--------|-------|------|
-| 14 | ✅ | Financial Report Writer | [agents/finance/financial-report-writer.md](agents/finance/financial-report-writer.md) |
-| 15 | ✅ | Budget Variance Analyst | [agents/finance/budget-variance-analyst.md](agents/finance/budget-variance-analyst.md) |
-| 53 | 🟢 | Budget Justification Writer | Converts a cost item list into a formal budget justification: rationale per item, alternatives considered, risk of non-approval. |
-| 54 | 🟢 | Board Paper Writer | Structures board-level papers: purpose, background, analysis, recommendation, financial implications, risks, resolution required. |
-| 55 | 🟢 | KPI Commentary Writer | Takes KPI results (figures, RAG statuses) and writes management commentary: performance vs target, root cause, forward outlook. |
-
----
-
-## Sales & Business Development
-
-| # | Status | Agent | File |
-|---|--------|-------|------|
-| 16 | ✅ | RFP Response Writer | [agents/sales/rfp-response-writer.md](agents/sales/rfp-response-writer.md) |
-| 17 | ✅ | Sales Email Writer | [agents/sales/sales-email-writer.md](agents/sales/sales-email-writer.md) |
-| 22 | ✅ | Account Plan Writer | [agents/sales/account-plan-writer.md](agents/sales/account-plan-writer.md) |
-| 23 | ✅ | Win/Loss Analyser | [agents/sales/win-loss-analyser.md](agents/sales/win-loss-analyser.md) |
-| 24 | ✅ | Competitive Intelligence Brief | [agents/sales/competitive-intelligence-brief.md](agents/sales/competitive-intelligence-brief.md) |
-| 25 | ✅ | Pipeline Review Preparer | [agents/sales/pipeline-review-preparer.md](agents/sales/pipeline-review-preparer.md) |
-| 26 | ✅ | Partnership Proposal Writer | [agents/sales/partnership-proposal-writer.md](agents/sales/partnership-proposal-writer.md) |
-| 27 | ✅ | Customer Case Study Writer | [agents/sales/customer-case-study-writer.md](agents/sales/customer-case-study-writer.md) |
-
----
-
-## Strategy & Executive
-
-| # | Status | Agent | File |
-|---|--------|-------|------|
-| 28 | ✅ | Strategic Plan Structurer | [agents/strategy-executive/strategic-plan-structurer.md](agents/strategy-executive/strategic-plan-structurer.md) |
-| 29 | ✅ | OKR Writer | [agents/strategy-executive/okr-writer.md](agents/strategy-executive/okr-writer.md) |
-| 30 | ✅ | Executive Decision Brief | [agents/strategy-executive/executive-decision-brief.md](agents/strategy-executive/executive-decision-brief.md) |
-| 31 | ✅ | Board Report Writer | [agents/strategy-executive/board-report-writer.md](agents/strategy-executive/board-report-writer.md) |
-
----
-
-## Learning & Development
-
-| # | Status | Agent | File |
-|---|--------|-------|------|
-| 32 | ✅ | Training Needs Analyser | [agents/learning-development/training-needs-analyser.md](agents/learning-development/training-needs-analyser.md) |
-| 33 | ✅ | Learning Objective Writer | [agents/learning-development/learning-objective-writer.md](agents/learning-development/learning-objective-writer.md) |
-| 34 | ✅ | Course Outline Builder | [agents/learning-development/course-outline-builder.md](agents/learning-development/course-outline-builder.md) |
-| 35 | ✅ | Assessment Question Writer | [agents/learning-development/assessment-question-writer.md](agents/learning-development/assessment-question-writer.md) |
-
----
-
-## ESG & Sustainability
-
-| # | Status | Agent | File |
-|---|--------|-------|------|
-| 36 | ✅ | ESG Report Section Writer | [agents/esg/esg-report-section-writer.md](agents/esg/esg-report-section-writer.md) |
-| 37 | ✅ | Carbon Footprint Narrative Writer | [agents/esg/carbon-footprint-narrative-writer.md](agents/esg/carbon-footprint-narrative-writer.md) |
-| 38 | ✅ | Materiality Assessment Writer | [agents/esg/materiality-assessment-writer.md](agents/esg/materiality-assessment-writer.md) |
-| 39 | ✅ | ESG Commitment Tracker | [agents/esg/esg-commitment-tracker.md](agents/esg/esg-commitment-tracker.md) |
+| # | Agent | Description |
+|---|-------|-------------|
+| 14 | [Financial Report Writer](agents/finance/financial-report-writer.md) | Draft management accounts commentary and board pack sections |
+| 15 | [Budget Variance Analyst](agents/finance/budget-variance-analyst.md) | Explain budget vs actual variances for management reporting |
+| 53 | [Budget Justification Writer](agents/finance/budget-justification-writer.md) | Convert a cost item list into a formal budget justification |
+| 54 | [Board Paper Writer](agents/finance/board-paper-writer.md) | Structure board-level papers with honest risk disclosure |
+| 55 | [KPI Commentary Writer](agents/finance/kpi-commentary-writer.md) | Take KPI results and write management commentary |
 
 ---
 
 ## IT & Digital
 
-| # | Status | Agent | File |
-|---|--------|-------|------|
-| 18 | ✅ | Incident Report Writer | [agents/it-ops/incident-report-writer.md](agents/it-ops/incident-report-writer.md) |
-| 19 | ✅ | Change Request Writer | [agents/it-ops/change-request-writer.md](agents/it-ops/change-request-writer.md) |
-| 56 | 🟢 | IT Request Scoper | Helps non-technical staff write clear IT service requests and business cases. |
-| 57 | 🟢 | Runbook Writer | Converts bullet-point operational procedures into structured runbooks: trigger, prerequisites, steps, verification, rollback, escalation contacts. |
-| 58 | 🟢 | Security Risk Communicator | Translates technical security findings (vulnerability scans, pen test results, audit findings) into plain-language risk summaries for non-security leadership. |
+| # | Agent | Description |
+|---|-------|-------------|
+| 18 | [Incident Report Writer](agents/it-ops/incident-report-writer.md) | Write IT incident post-mortems and reports |
+| 19 | [Change Request Writer](agents/it-ops/change-request-writer.md) | Write IT change management requests and CAB submissions |
+| 56 | [IT Request Scoper](agents/it-ops/it-request-scoper.md) | Help non-technical staff write clear IT service requests |
+| 57 | [Runbook Writer](agents/it-ops/runbook-writer.md) | Convert bullet-point procedures into structured runbooks |
+| 58 | [Security Risk Communicator](agents/it-ops/security-risk-communicator.md) | Translate technical security findings into plain-language risk summaries |
 
 ---
 
 ## Customer Success
 
-| # | Status | Agent | File |
-|---|--------|-------|------|
-| 20 | ✅ | Escalation Handler | [agents/customer-success/escalation-handler.md](agents/customer-success/escalation-handler.md) |
-| 21 | ✅ | Customer Response Writer | [agents/customer-success/customer-response-writer.md](agents/customer-success/customer-response-writer.md) |
+| # | Agent | Description |
+|---|-------|-------------|
+| 20 | [Escalation Handler](agents/customer-success/escalation-handler.md) | Manage customer escalations with structured comms |
+| 21 | [Customer Response Writer](agents/customer-success/customer-response-writer.md) | Write professional responses to customer queries and complaints |
+
+---
+
+## Sales & Business Development
+
+| # | Agent | Description |
+|---|-------|-------------|
+| 16 | [RFP Response Writer](agents/sales/rfp-response-writer.md) | Write RFP responses and business proposals |
+| 17 | [Sales Email Writer](agents/sales/sales-email-writer.md) | Write outbound prospecting and follow-up emails |
+| 22 | [Account Plan Writer](agents/sales/account-plan-writer.md) | Build structured account plans with stakeholder maps |
+| 23 | [Win/Loss Analyser](agents/sales/win-loss-analyser.md) | Analyse deal outcomes to surface patterns and strategic insights |
+| 24 | [Competitive Intelligence Brief](agents/sales/competitive-intelligence-brief.md) | Produce competitor briefs and battle cards with confidence labelling |
+| 25 | [Pipeline Review Preparer](agents/sales/pipeline-review-preparer.md) | Convert CRM data into structured pipeline reviews |
+| 26 | [Partnership Proposal Writer](agents/sales/partnership-proposal-writer.md) | Draft partnership and commercial alliance proposals |
+| 27 | [Customer Case Study Writer](agents/sales/customer-case-study-writer.md) | Write customer success stories in multiple formats |
+
+---
+
+## Strategy & Executive
+
+| # | Agent | Description |
+|---|-------|-------------|
+| 28 | [Strategic Plan Structurer](agents/strategy-executive/strategic-plan-structurer.md) | Structure multi-year strategic plans from executive input |
+| 29 | [OKR Writer](agents/strategy-executive/okr-writer.md) | Write, review, and cascade OKRs across teams |
+| 30 | [Executive Decision Brief](agents/strategy-executive/executive-decision-brief.md) | Convert complex decisions into a one-page structured brief |
+| 31 | [Board Report Writer](agents/strategy-executive/board-report-writer.md) | Draft board reports with honest risk disclosure |
+
+---
+
+## Learning & Development
+
+| # | Agent | Description |
+|---|-------|-------------|
+| 32 | [Training Needs Analyser](agents/learning-development/training-needs-analyser.md) | Convert performance gaps and survey data into structured TNA reports |
+| 33 | [Learning Objective Writer](agents/learning-development/learning-objective-writer.md) | Write Bloom's-levelled learning objectives for any course |
+| 34 | [Course Outline Builder](agents/learning-development/course-outline-builder.md) | Build structured course outlines with module sequencing |
+| 35 | [Assessment Question Writer](agents/learning-development/assessment-question-writer.md) | Write scenario, MCQ, and short answer questions with marking criteria |
+
+---
+
+## ESG & Sustainability
+
+| # | Agent | Description |
+|---|-------|-------------|
+| 36 | [ESG Report Section Writer](agents/esg/esg-report-section-writer.md) | Draft ESG report sections aligned to GRI, TCFD, ESRS, or SASB |
+| 37 | [Carbon Footprint Narrative Writer](agents/esg/carbon-footprint-narrative-writer.md) | Convert Scope 1, 2, and 3 emissions data into carbon narrative |
+| 38 | [Materiality Assessment Writer](agents/esg/materiality-assessment-writer.md) | Structure double materiality assessments for ESRS, GRI, and TCFD |
+| 39 | [ESG Commitment Tracker](agents/esg/esg-commitment-tracker.md) | Track ESG commitments and produce progress reports with RAG status |
 
 ---
 
 ## Commercial & Legal
 
-| # | Status | Agent | File |
-|---|--------|-------|------|
-| — | 🟢 | Tender Response Writer | Structures technical and commercial responses to ITBs and RFPs: executive summary, compliance matrix, technical approach, team credentials, clarification log. |
-| — | 🟢 | Change Order Assistant | Structures scope change requests: change description, contractual basis, schedule impact, cost impact, required approvals. |
-| — | 🟢 | Claims Register Manager | Logs and tracks contractual claims: description, contractual basis, value, evidence required, status, response deadline. |
-| — | 🟢 | Back-Charge Drafter | Writes formal back-charge notices: event description, contractual reference, value, supporting evidence required, response deadline. |
-| — | 🟢 | NDA & Agreement Summariser | Summarises key clauses from NDAs and service contracts: obligations, restrictions, term, liability cap, termination rights. |
-| — | 🟢 | Compliance Checklist Builder | Converts a regulation or policy into a structured compliance checklist: requirement, evidence needed, owner, status. |
-| — | 🟢 | Contract Language Simplifier | Rewrites dense contractual clauses into plain language for non-legal readers. Preserves meaning, flags ambiguity, never gives legal advice. |
-| — | 🟢 | Policy Summariser | Converts long policy documents into: what it covers, what you must do, what is prohibited, who to contact. |
-| — | 🟢 | Incident Communication Drafter | Drafts internal and external communications for incidents, outages, or crises. Separate templates for staff, clients, and press. |
+| # | Agent | Description |
+|---|-------|-------------|
+| 63 | [Tender Response Writer](agents/commercial-legal/tender-response-writer.md) | Structure technical and commercial responses to ITBs and RFPs |
+| 64 | [Change Order Assistant](agents/commercial-legal/change-order-assistant.md) | Structure scope change requests with schedule and cost impact |
+| 65 | [Claims Register Manager](agents/commercial-legal/claims-register-manager.md) | Log and track contractual claims with evidence and deadlines |
+| 66 | [Back-Charge Drafter](agents/commercial-legal/back-charge-drafter.md) | Write formal back-charge notices with contractual basis and value |
+| 67 | [NDA & Agreement Summariser](agents/commercial-legal/nda-agreement-summariser.md) | Summarise key clauses from NDAs and service contracts |
+| 68 | [Compliance Checklist Builder](agents/commercial-legal/compliance-checklist-builder.md) | Convert a regulation or policy into a structured compliance checklist |
+| 69 | [Contract Language Simplifier](agents/commercial-legal/contract-language-simplifier.md) | Rewrite dense contractual clauses into plain language |
+| 70 | [Policy Summariser](agents/commercial-legal/policy-summariser.md) | Convert long policy documents into what you must do, what is prohibited |
+| 71 | [Incident Communication Drafter](agents/commercial-legal/incident-communication-drafter.md) | Draft staff, client, and press communications for incidents and crises |
 
 ---
 
 ## Industry Packs
 
-| # | Status | Pack | File |
-|---|--------|------|------|
-| — | ✅ | EPC & Energy (13 agents) | [agents/industry/epc-energy/README.md](agents/industry/epc-energy/README.md) |
-| — | 🟡 | Healthcare | Planned — patient communications, clinical briefings, care pathway summaries |
-| — | 🟡 | Legal | Planned — legal matter summaries, case briefings |
-| — | 🟡 | NGO / Public Sector | Planned — grant applications, public consultations, policy responses |
+| Pack | Status | Description |
+|------|--------|-------------|
+| [EPC & Energy](agents/industry/epc-energy/README.md) | Coming Soon | 13-agent suite for Engineering, Procurement, and Construction projects in the energy sector |
 
 ---
 
 ## Advanced / MCP-Enabled
 
-> These agents require platform connections beyond plain instructions. Build after the instruction-only library is stable.
+> These agents require platform connections beyond plain instructions. Deploy after the instruction-only agents are stable.
 
-| # | Status | Agent | Requires | Description |
-|---|--------|-------|----------|-------------|
-| 59 | 🔴 | SharePoint Knowledge Agent | SharePoint via Graph | Answers questions grounded in a connected SharePoint site. Cites source document and section for every answer. |
-| 60 | 🔴 | Email Triage Assistant | Outlook via Graph API | Classifies, summarises, and drafts responses to unread emails by urgency and type. Never sends without explicit confirmation. |
-| 61 | 🔴 | Meeting Intelligence Agent | Teams transcripts via Graph | Automatically produces structured records (decisions, actions, risks) from Teams meeting transcripts. |
-| 62 | 🔴 | Cross-Agent Orchestrator | All agents in library | Routes user requests to the correct specialist agent based on intent. Single entry point that delegates to any agent in the library. |
+| # | Agent | Requires | Description |
+|---|-------|----------|-------------|
+| 59 | [SharePoint Knowledge Agent](agents/advanced/sharepoint-knowledge-agent.md) | SharePoint via Graph API | Answers questions grounded in a connected SharePoint site with source citations |
+| 60 | [Email Triage Assistant](agents/advanced/email-triage-assistant.md) | Outlook via Graph API | Classifies, summarises, and drafts responses to unread emails — never sends without confirmation |
+| 61 | [Meeting Intelligence Agent](agents/advanced/meeting-intelligence-agent.md) | Teams transcripts via Graph API | Produces structured records from Teams meeting transcripts |
+| 62 | [Cross-Agent Orchestrator](agents/advanced/cross-agent-orchestrator.md) | All agents deployed | Routes user requests to the correct specialist agent — single entry point for the full library |
 
 ---
 
 ## Totals
 
-| Status | Count |
-|--------|-------|
-| Built ✅ | 39 |
-| Planned 🟢🔵🟡 | 28 |
-| Advanced / MCP 🔴 | 4 |
-| **Total roadmap** | **71** |
+| Domain | Agents |
+|--------|--------|
+| Writing & Communication | 6 |
+| Project Management | 11 |
+| HR & People | 8 |
+| Productivity | 1 |
+| Finance & Reporting | 5 |
+| IT & Digital | 5 |
+| Customer Success | 2 |
+| Sales & Business Development | 8 |
+| Strategy & Executive | 4 |
+| Learning & Development | 4 |
+| ESG & Sustainability | 4 |
+| Commercial & Legal | 9 |
+| Advanced / MCP | 4 |
+| **Total** | **71** |
 
 ---
 

@@ -1,13 +1,13 @@
 # Awesome Copilot Studio Agents
 
-> **39 production-ready declarative agents for Microsoft 365 Copilot.**
+> **71 production-ready declarative agents for Microsoft 365 Copilot.**
 > Paste each instruction block into Copilot Studio → New agent → Instructions field.
 > No coding required. Deploy in minutes.
 
 [![GitHub stars](https://img.shields.io/github/stars/mathieukessler/awesome-copilot-studio-agents?style=flat-square)](https://github.com/mathieukessler/awesome-copilot-studio-agents/stargazers)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-> **39 agents built. 71 on the roadmap.** See [AGENTS.md](AGENTS.md) for the full library plan.
+> **71 production-ready agents across 13 domains.** See [AGENTS.md](AGENTS.md) for the complete library.
 
 ---
 
@@ -61,6 +61,8 @@ Every agent in this library:
 | 02 | [**AI Text Humanizer**](agents/writing-communication/ai-text-humanizer.md) | Remove AI writing patterns from any text | All Staff | None | `@AI Text Humanizer ...` |
 | 03 | [**Meeting Scribe**](agents/writing-communication/meeting-scribe.md) | Turn meeting notes into structured records | All Staff | None | `@Meeting Scribe ...` |
 | 04 | [**Professional Translator EN↔FR**](agents/writing-communication/professional-translator-en-fr.md) | Accurate English–French translation | All Staff | None | `@Professional Translator ...` |
+| 40 | [**Executive Briefing Builder**](agents/writing-communication/executive-briefing-builder.md) | Compress long reports or email threads into a one-page C-suite brief | Leadership / Chiefs of Staff / EAs | None | `@Executive Briefing ...` |
+| 41 | [**Tone Calibrator**](agents/writing-communication/tone-calibrator.md) | Adjust the register of any text to match a specified audience | All Staff | None | `@Tone Calibrator ...` |
 
 ### Project Management
 
@@ -71,6 +73,12 @@ Every agent in this library:
 | 07 | [**Document Reviewer**](agents/project-management/document-reviewer.md) | Review documents for quality and completeness | All Staff | None | `@Document Reviewer ...` |
 | 08 | [**Lessons Learned Manager**](agents/project-management/lessons-learned-manager.md) | Convert retrospectives into structured LL entries | PMs / Leadership | Optional: LL SharePoint | `@Lessons Learned Manager ...` |
 | 09 | [**Presentation Builder**](agents/project-management/presentation-builder.md) | Build structured slide outlines for any audience | Leadership / PMs | None | `@Presentation Builder ...` |
+| 42 | [**Project Charter Writer**](agents/project-management/project-charter-writer.md) | Build a structured project charter from a brief | PMs / PMO | None | `@Project Charter Writer ...` |
+| 43 | [**RAID Log Manager**](agents/project-management/raid-log-manager.md) | Generate and update RAID logs from meeting notes or project updates | PMs / PMO | None | `@RAID Log Manager ...` |
+| 44 | [**Scope of Work Drafter**](agents/project-management/scope-of-work-drafter.md) | Build a first-draft SOW from a requirement list | PMs / Commercial | None | `@Scope of Work Drafter ...` |
+| 45 | [**Meeting Pre-Brief Builder**](agents/project-management/meeting-pre-brief-builder.md) | Turn an agenda and pre-reads into a briefing for attendees | PMs / Chiefs of Staff | None | `@Meeting Pre-Brief ...` |
+| 46 | [**Action Register Tracker**](agents/project-management/action-register-tracker.md) | Extract all actions from any input and produce a numbered register | PMs / Team Leads / EAs | None | `@Action Register ...` |
+| 47 | [**Project Closure Report Writer**](agents/project-management/project-closure-report-writer.md) | Structure project closeout documentation | PMs / PMO | None | `@Closure Report Writer ...` |
 
 ### HR & People
 
@@ -79,6 +87,11 @@ Every agent in this library:
 | 10 | [**Employee Onboarding Guide**](agents/hr-people/employee-onboarding-guide.md) | Answer new joiner questions | New Joiners / HR | Required: HR SharePoint | `@Onboarding Guide ...` |
 | 11 | [**Job Description Writer**](agents/hr-people/job-description-writer.md) | Write clear, inclusive job descriptions | HR / Hiring Managers | None | `@Job Description Writer ...` |
 | 12 | [**Performance Coach**](agents/hr-people/performance-coach.md) | Write SMART goals and structured performance feedback | All Staff / Managers | Optional: competency framework | `@Performance Coach ...` |
+| 48 | [**Interview Question Builder**](agents/hr-people/interview-question-builder.md) | Generate structured, competency-based interview questions | HR / Hiring Managers | None | `@Interview Question Builder ...` |
+| 49 | [**Probation Review Assistant**](agents/hr-people/probation-review-assistant.md) | Help managers structure 3-month and 6-month probation reviews | Line Managers / HR | None | `@Probation Review ...` |
+| 50 | [**Redundancy Communication Writer**](agents/hr-people/redundancy-communication-writer.md) | Draft formal redundancy and restructure communications | HR / Legal / Senior Management | None | `@Redundancy Comms ...` |
+| 51 | [**Exit Interview Analyser**](agents/hr-people/exit-interview-analyser.md) | Convert exit interview notes into a structured themes report | HR / People Analytics | None | `@Exit Interview Analyser ...` |
+| 52 | [**Org Announcement Writer**](agents/hr-people/org-announcement-writer.md) | Draft internal announcements for org changes | HR / Senior Management / Comms | None | `@Org Announcement Writer ...` |
 
 ### Productivity
 
@@ -92,6 +105,9 @@ Every agent in this library:
 |---|-------|-------------|----------|-----------|--------|
 | 14 | [**Financial Report Writer**](agents/finance/financial-report-writer.md) | Draft management accounts commentary and board pack sections | Finance / Leadership | None | `@Financial Report Writer ...` |
 | 15 | [**Budget Variance Analyst**](agents/finance/budget-variance-analyst.md) | Explain budget vs actual variances for management reporting | Finance / Controllers | None | `@Budget Variance Analyst ...` |
+| 53 | [**Budget Justification Writer**](agents/finance/budget-justification-writer.md) | Convert a cost item list into a formal budget justification | Finance / PMs / Department Heads | None | `@Budget Justification Writer ...` |
+| 54 | [**Board Paper Writer**](agents/finance/board-paper-writer.md) | Structure board-level papers with honest risk disclosure | CFO / CEO / Board Secretary | None | `@Board Paper Writer ...` |
+| 55 | [**KPI Commentary Writer**](agents/finance/kpi-commentary-writer.md) | Take KPI results and write management commentary | Finance / FP&A / Business Partners | None | `@KPI Commentary Writer ...` |
 
 ### IT & Operations
 
@@ -99,6 +115,9 @@ Every agent in this library:
 |---|-------|-------------|----------|-----------|--------|
 | 18 | [**Incident Report Writer**](agents/it-ops/incident-report-writer.md) | Write IT incident post-mortems and reports | IT / Ops | None | `@Incident Report Writer ...` |
 | 19 | [**Change Request Writer**](agents/it-ops/change-request-writer.md) | Write IT change management requests and CAB submissions | IT / Change Managers | None | `@Change Request Writer ...` |
+| 56 | [**IT Request Scoper**](agents/it-ops/it-request-scoper.md) | Help non-technical staff write clear IT service requests | All Staff / Business Analysts | None | `@IT Request Scoper ...` |
+| 57 | [**Runbook Writer**](agents/it-ops/runbook-writer.md) | Convert bullet-point procedures into structured runbooks | IT Ops / DevOps / Platform Engineers | None | `@Runbook Writer ...` |
+| 58 | [**Security Risk Communicator**](agents/it-ops/security-risk-communicator.md) | Translate technical security findings into plain-language risk summaries | CISOs / Security Teams / Risk Committees | None | `@Security Risk Communicator ...` |
 
 ### Customer Success
 
@@ -147,6 +166,31 @@ Every agent in this library:
 | 38 | [**Materiality Assessment Writer**](agents/esg/materiality-assessment-writer.md) | Structure double materiality assessments for ESRS, GRI, and TCFD | Sustainability Teams / Legal | None | `@Materiality Assessment ...` |
 | 39 | [**ESG Commitment Tracker**](agents/esg/esg-commitment-tracker.md) | Track ESG commitments and produce progress reports with RAG status | Sustainability Teams / Board | None | `@ESG Commitment Tracker ...` |
 
+### Commercial & Legal
+
+| # | Agent | Description | Audience | Knowledge | Invoke |
+|---|-------|-------------|----------|-----------|--------|
+| 63 | [**Tender Response Writer**](agents/commercial-legal/tender-response-writer.md) | Structure technical and commercial responses to ITBs and RFPs | BD / Commercial / Proposal Managers | None | `@Tender Response Writer ...` |
+| 64 | [**Change Order Assistant**](agents/commercial-legal/change-order-assistant.md) | Structure scope change requests with schedule and cost impact | PMs / Commercial / Contract Managers | None | `@Change Order Assistant ...` |
+| 65 | [**Claims Register Manager**](agents/commercial-legal/claims-register-manager.md) | Log and track contractual claims with evidence and deadlines | Commercial / Contract Managers | None | `@Claims Register Manager ...` |
+| 66 | [**Back-Charge Drafter**](agents/commercial-legal/back-charge-drafter.md) | Write formal back-charge notices with contractual basis and value | Commercial / Contract Managers | None | `@Back-Charge Drafter ...` |
+| 67 | [**NDA & Agreement Summariser**](agents/commercial-legal/nda-agreement-summariser.md) | Summarise key clauses from NDAs and service contracts | Business Managers / Commercial / Procurement | None | `@NDA Summariser ...` |
+| 68 | [**Compliance Checklist Builder**](agents/commercial-legal/compliance-checklist-builder.md) | Convert a regulation or policy into a structured compliance checklist | Compliance / Legal / Risk / Audit | None | `@Compliance Checklist ...` |
+| 69 | [**Contract Language Simplifier**](agents/commercial-legal/contract-language-simplifier.md) | Rewrite dense contractual clauses into plain language | All Staff / Business Managers | None | `@Contract Simplifier ...` |
+| 70 | [**Policy Summariser**](agents/commercial-legal/policy-summariser.md) | Convert long policy documents into what you must do, what is prohibited | HR / Compliance / All Staff | None | `@Policy Summariser ...` |
+| 71 | [**Incident Communication Drafter**](agents/commercial-legal/incident-communication-drafter.md) | Draft staff, client, and press communications for incidents and crises | Communications / Legal / Senior Leadership | None | `@Incident Comms Drafter ...` |
+
+### Advanced / MCP-Enabled
+
+> These agents require platform connections via Microsoft Graph API. Deploy after all instruction-only agents are stable.
+
+| # | Agent | Description | Audience | Knowledge | Invoke |
+|---|-------|-------------|----------|-----------|--------|
+| 59 | [**SharePoint Knowledge Agent**](agents/advanced/sharepoint-knowledge-agent.md) | Answer questions grounded in a connected SharePoint site with source citations | All Staff | Required: SharePoint via Graph API | `@SharePoint Knowledge ...` |
+| 60 | [**Email Triage Assistant**](agents/advanced/email-triage-assistant.md) | Classify, summarise, and draft responses to unread emails — never sends without confirmation | Senior Leaders / EAs / Chiefs of Staff | Required: Outlook via Graph API | `@Email Triage ...` |
+| 61 | [**Meeting Intelligence Agent**](agents/advanced/meeting-intelligence-agent.md) | Produce structured records from Teams meeting transcripts | PMs / Team Leads / All Staff | Required: Teams transcripts via Graph API | `@Meeting Intelligence ...` |
+| 62 | [**Cross-Agent Orchestrator**](agents/advanced/cross-agent-orchestrator.md) | Route user requests to the correct specialist agent — single entry point for the library | All Staff | All agents deployed | `@Copilot Assistant ...` |
+
 ---
 
 ## Industry Packs
@@ -169,11 +213,9 @@ A complete 13-agent suite built for Engineering, Procurement, and Construction p
 
 ---
 
-## Full Roadmap
+## Full Library
 
-The library is planned to grow to 71 agents across 12 domains including Commercial & Legal, additional HR and PM agents, IT & Digital expansion, vertical packs (Healthcare, Legal, NGO/Public Sector), and 4 MCP-enabled advanced agents.
-
-See [AGENTS.md](AGENTS.md) for the complete planned agent list with descriptions and build priority.
+The library contains 71 agents across 13 domains. See [AGENTS.md](AGENTS.md) for the complete index with links to every agent.
 
 ---
 
@@ -216,7 +258,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and [AUTHORING-CHECKLIST.md](AUTHORING-CH
 
 ## Quick Links
 
-- **[Agent Library Plan](AGENTS.md)** — full roadmap with status and priority
+- **[Agent Library](AGENTS.md)** — complete index of all 71 agents with links
 - **[Authoring Checklist](AUTHORING-CHECKLIST.md)** — standards for contributing agents
 - **[Contributing Guide](CONTRIBUTING.md)** — submission process
 - **[AI at Work Newsletter](https://newsletter.kesslernity.com)** — biweekly GenAI briefing
@@ -228,4 +270,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and [AUTHORING-CHECKLIST.md](AUTHORING-CH
 
 ---
 
-*awesome-copilot-studio-agents — v1.1 — 2026*
+*awesome-copilot-studio-agents — v2.0 — 2026*
