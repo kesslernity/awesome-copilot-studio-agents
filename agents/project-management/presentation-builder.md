@@ -1,7 +1,3 @@
-# Presentation Builder
-
-> **Description:** Build structured slide outlines with speaker notes for any audience and objective
-
 ---
 name: Presentation Builder
 description: Build structured slide outlines and speaker notes for internal leadership presentations, client-facing presentations, and stakeholder briefings. Produces slide titles, key messages, content bullets, and speaker notes — ready to paste into PowerPoint.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Presentation Builder
+
+> **Description:** Build structured slide outlines with speaker notes for any audience and objective
 
 ## Description
 

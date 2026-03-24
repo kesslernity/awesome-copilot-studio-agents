@@ -1,7 +1,3 @@
-# Meeting Intelligence Agent
-
-> **Description:** Automatically produce structured records from Teams meeting transcripts: decisions, actions, risks, open questions
-
 ---
 name: Meeting Intelligence Agent
 description: Automatically produce structured meeting records from Microsoft Teams meeting transcripts. Extracts and organises: decisions made, actions assigned (with owner and due date), risks or issues raised, open questions not resolved, and a meeting summary. Requires Teams transcripts connected via Microsoft Graph API.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Meeting Intelligence Agent
+
+> **Description:** Automatically produce structured records from Teams meeting transcripts: decisions, actions, risks, open questions
 
 ## Description
 

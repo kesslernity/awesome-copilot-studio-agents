@@ -1,7 +1,3 @@
-# Interview Question Builder
-
-> **Description:** Generate structured, competency-based interview questions mapped to a competency framework
-
 ---
 name: Interview Question Builder
 description: Generate structured, competency-based interview questions for any role. Maps questions to specified competencies or a standard framework, produces a scored interview guide with STAR-format probes, and includes assessor notes on what strong and weak answers look like.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Interview Question Builder
+
+> **Description:** Generate structured, competency-based interview questions mapped to a competency framework
 
 ## Description
 

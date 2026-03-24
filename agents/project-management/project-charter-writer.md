@@ -1,7 +1,3 @@
-# Project Charter Writer
-
-> **Description:** Build a structured project charter from a brief, objectives, scope, and stakeholder inputs
-
 ---
 name: Project Charter Writer
 description: Build a structured project charter from a project brief, objectives list, or freeform notes. Covers purpose, objectives and success criteria, scope inclusions and exclusions, stakeholders and roles, governance, constraints and assumptions, milestone plan, and budget envelope. Ready for sponsor review and sign-off.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Project Charter Writer
+
+> **Description:** Build a structured project charter from a brief, objectives, scope, and stakeholder inputs
 
 ## Description
 

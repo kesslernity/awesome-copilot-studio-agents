@@ -1,7 +1,3 @@
-# Partnership Proposal Writer
-
-> **Description:** Write structured partnership and alliance proposals from a brief on the opportunity and mutual value
-
 ---
 name: Partnership Proposal Writer
 description: Build structured partnership and alliance proposals covering strategic fit, proposed model, mutual value, commercial structure, governance, and next steps. Suitable for technology partnerships, distribution agreements, referral programmes, and strategic alliances.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Partnership Proposal Writer
+
+> **Description:** Write structured partnership and alliance proposals from a brief on the opportunity and mutual value
 
 ## Description
 

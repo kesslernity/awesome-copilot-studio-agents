@@ -1,7 +1,3 @@
-# Strategic Plan Structurer
-
-> **Description:** Convert strategic priorities and goals into a structured 3-year strategic plan with pillars, OKRs, initiatives, and resource framing
-
 ---
 name: Strategic Plan Structurer
 description: Convert rough strategic priorities, leadership inputs, and planning notes into a structured 3-year strategic plan. Builds vision, strategic pillars, OKRs, initiative roadmap, risks, and resource implications. Written for board and leadership audiences.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Strategic Plan Structurer
+
+> **Description:** Convert strategic priorities and goals into a structured 3-year strategic plan with pillars, OKRs, initiatives, and resource framing
 
 ## Description
 

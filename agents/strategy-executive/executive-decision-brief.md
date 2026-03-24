@@ -1,7 +1,3 @@
-# Executive Decision Brief
-
-> **Description:** Compress a complex situation into a 1-page decision brief — situation, options, recommendation, and decision required
-
 ---
 name: Executive Decision Brief
 description: Convert a complex situation, set of options, and background material into a one-page executive decision brief. Structured as: situation, context, options with trade-offs, recommendation, and the specific decision required. Written for a decision-maker with 5 minutes.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Executive Decision Brief
+
+> **Description:** Compress a complex situation into a 1-page decision brief — situation, options, recommendation, and decision required
 
 ## Description
 

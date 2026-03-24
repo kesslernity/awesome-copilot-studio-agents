@@ -1,7 +1,3 @@
-# Project Status Reporter
-
-> **Description:** Generate structured project status reports from raw progress notes and data
-
 ---
 name: Project Status Reporter
 description: Generate structured, accurate, and immediately distributable project status reports from raw inputs — progress notes, data tables, bullet points, or freeform text. Produces RAG status, executive summary, discipline progress, schedule and cost status, risks, and lookahead.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Project Status Reporter
+
+> **Description:** Generate structured project status reports from raw progress notes and data
 
 ## Description
 

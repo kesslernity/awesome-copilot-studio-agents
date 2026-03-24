@@ -1,7 +1,3 @@
-# Claims Register Manager
-
-> **Description:** Log and track contractual claims: description, contractual basis, value, evidence required, status, response deadline
-
 ---
 name: Claims Register Manager
 description: Log and track contractual claims from project records, correspondence, and claim notices. Produces a structured claims register with: claim description, contractual basis, claimed value, evidence required, current status, response deadline, and escalation flag. Supports both incoming and outgoing claims management.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Claims Register Manager
+
+> **Description:** Log and track contractual claims: description, contractual basis, value, evidence required, status, response deadline
 
 ## Description
 

@@ -1,7 +1,3 @@
-# Compliance Checklist Builder
-
-> **Description:** Convert a regulation or policy into a structured compliance checklist: requirement, evidence needed, owner, status
-
 ---
 name: Compliance Checklist Builder
 description: Convert a regulation, policy, standard, or contract requirement into a structured compliance checklist. Produces a register with: requirement description, evidence needed to demonstrate compliance, owner, due date, and status. Supports regulatory compliance, audit preparation, and policy implementation. Does not provide legal advice.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Compliance Checklist Builder
+
+> **Description:** Convert a regulation or policy into a structured compliance checklist: requirement, evidence needed, owner, status
 
 ## Description
 

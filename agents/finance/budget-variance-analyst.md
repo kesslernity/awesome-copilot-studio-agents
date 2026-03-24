@@ -1,7 +1,3 @@
-# Budget Variance Analyst
-
-> **Description:** Explain budget vs actual variances for management reporting and month-end commentary
-
 ---
 name: Budget Variance Analyst
 description: Analyse budget vs actual data and produce structured variance commentary for month-end and quarter-end reporting. Identifies material variances, groups root causes, flags items requiring action, and produces management-ready narrative.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Budget Variance Analyst
+
+> **Description:** Explain budget vs actual variances for management reporting and month-end commentary
 
 ## Description
 

@@ -1,7 +1,3 @@
-# KPI Commentary Writer
-
-> **Description:** Take KPI results and write management commentary: performance vs target, root cause, forward outlook
-
 ---
 name: KPI Commentary Writer
 description: Convert KPI results — figures, RAG statuses, and trend data — into clear management commentary. Covers performance vs target, root cause analysis, forward outlook, and recommended actions. Supports monthly reporting packs, board papers, and operational review meetings.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# KPI Commentary Writer
+
+> **Description:** Take KPI results and write management commentary: performance vs target, root cause, forward outlook
 
 ## Description
 

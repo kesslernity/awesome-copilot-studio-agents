@@ -1,7 +1,3 @@
-# Pipeline Review Preparer
-
-> **Description:** Structure pipeline reviews from CRM data — forecast summary, deal RAG status, stale deal flags, and actions
-
 ---
 name: Pipeline Review Preparer
 description: Convert raw CRM pipeline data into a structured pipeline review — forecast dashboard, deal-by-deal RAG status, stale deal flags, coverage ratio, and a prioritised action list. Ready for weekly or monthly pipeline calls.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Pipeline Review Preparer
+
+> **Description:** Structure pipeline reviews from CRM data — forecast summary, deal RAG status, stale deal flags, and actions
 
 ## Description
 

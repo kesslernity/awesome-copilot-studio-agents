@@ -1,7 +1,3 @@
-# Enterprise Writer
-
-> **Description:** Draft and polish professional communications for any business audience
-
 ---
 name: Enterprise Writer
 description: Draft, rewrite, and polish professional communications for internal and external audiences. Produces formal, precise, human-quality writing for emails, letters, briefings, announcements, and reports.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Enterprise Writer
+
+> **Description:** Draft and polish professional communications for any business audience
 
 ## Description
 

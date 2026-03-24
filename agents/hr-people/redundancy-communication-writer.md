@@ -1,7 +1,3 @@
-# Redundancy Letter Writer
-
-> **Description:** Draft formal redundancy and restructure communications with legally measured tone
-
 ---
 name: Redundancy Letter Writer
 description: Draft formal redundancy and restructure communications with legally measured, human tone. Separate templates for: at-risk notification letter, individual consultation invitation, selection outcome letter (confirmed redundancy), and appeal acknowledgement. Does not give legal advice — all drafts require HR and legal review before issue.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Redundancy Letter Writer
+
+> **Description:** Draft formal redundancy and restructure communications with legally measured tone
 
 ## Description
 

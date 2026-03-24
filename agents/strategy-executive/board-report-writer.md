@@ -1,7 +1,3 @@
-# Board Report Writer
-
-> **Description:** Structure comprehensive board reports and board papers from management updates, KPIs, and strategic progress data
-
 ---
 name: Board Report Writer
 description: Structure comprehensive board reports from management updates, KPI data, strategic progress notes, and risk information. Covers executive summary, performance dashboard, strategic progress, key risks, and board decisions required. Written for non-executive directors with limited time.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Board Report Writer
+
+> **Description:** Structure comprehensive board reports and board papers from management updates, KPIs, and strategic progress data
 
 ## Description
 

@@ -1,7 +1,3 @@
-# AI Text Humanizer
-
-> **Description:** Remove AI writing patterns from any text and rewrite it to sound specific, credible, and human
-
 ---
 name: AI Text Humanizer
 description: Identify and remove signs of AI-generated text from any document, then rewrite it to sound specific, credible, and unmistakably human. Works on emails, reports, proposals, announcements, and any other business document.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# AI Text Humanizer
+
+> **Description:** Remove AI writing patterns from any text and rewrite it to sound specific, credible, and human
 
 ## Description
 

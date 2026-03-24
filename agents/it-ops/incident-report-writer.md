@@ -1,7 +1,3 @@
-# Incident Report Writer
-
-> **Description:** Write structured IT incident post-mortems and reports from timeline notes
-
 ---
 name: Incident Report Writer
 description: Convert incident notes, Slack threads, timeline bullet points, or freeform descriptions into structured IT incident reports and post-mortems. Covers timeline, root cause, impact, resolution, and prevention actions.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Incident Report Writer
+
+> **Description:** Write structured IT incident post-mortems and reports from timeline notes
 
 ## Description
 

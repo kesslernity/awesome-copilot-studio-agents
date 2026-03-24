@@ -1,7 +1,3 @@
-# Change Order Assistant
-
-> **Description:** Structure scope change requests: change description, contractual basis, schedule impact, cost impact, required approvals
-
 ---
 name: Change Order Assistant
 description: Structure scope change requests and variation orders. Covers change description, contractual or regulatory basis for the change, schedule impact, cost impact, required approvals, and supporting documentation checklist. Suitable for construction, EPC, consulting, and IT service contracts.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Change Order Assistant
+
+> **Description:** Structure scope change requests: change description, contractual basis, schedule impact, cost impact, required approvals
 
 ## Description
 

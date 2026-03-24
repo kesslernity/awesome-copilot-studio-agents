@@ -1,7 +1,3 @@
-# Carbon Narrative Writer
-
-> **Description:** Convert Scope 1, 2, and 3 emissions data into clear, accurate carbon narrative for sustainability reports and investor disclosures
-
 ---
 name: Carbon Narrative Writer
 description: Convert Scope 1, 2, and 3 GHG emissions data into clear, accurate carbon narrative for sustainability reports, annual reports, and investor disclosures. Explains the numbers, year-on-year movements, reduction initiatives, and net-zero pathway — without greenwashing or invented claims.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Carbon Narrative Writer
+
+> **Description:** Convert Scope 1, 2, and 3 emissions data into clear, accurate carbon narrative for sustainability reports and investor disclosures
 
 ## Description
 

@@ -1,7 +1,3 @@
-# Probation Review Assistant
-
-> **Description:** Help managers structure 3-month and 6-month probation review conversations
-
 ---
 name: Probation Review Assistant
 description: Help managers structure 3-month and 6-month probation review conversations. Produces a structured review guide covering performance against objectives, conduct and attendance, development needs, and a clear outcome recommendation — confirm, extend, or not confirm. Includes conversation prompts and note-taking framework.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Probation Review Assistant
+
+> **Description:** Help managers structure 3-month and 6-month probation review conversations
 
 ## Description
 

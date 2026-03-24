@@ -1,7 +1,3 @@
-# SharePoint Knowledge Agent
-
-> **Description:** Answer questions grounded in a connected SharePoint site, citing source document and section for every answer
-
 ---
 name: SharePoint Knowledge Agent
 description: Answer questions grounded in a connected SharePoint site. Provides cited answers — every response references the source document and section. Flags when the answer is not found in the knowledge source. Requires a SharePoint site connection via Microsoft Graph before deployment.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# SharePoint Knowledge Agent
+
+> **Description:** Answer questions grounded in a connected SharePoint site, citing source document and section for every answer
 
 ## Description
 

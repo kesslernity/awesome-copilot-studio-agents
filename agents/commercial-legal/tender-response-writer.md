@@ -1,7 +1,3 @@
-# Tender Response Writer
-
-> **Description:** Structure technical and commercial responses to ITBs and RFPs: executive summary, compliance matrix, technical approach, team credentials, clarification log
-
 ---
 name: Tender Response Writer
 description: Structure technical and commercial responses to Invitations to Bid (ITBs) and Requests for Proposal (RFPs). Covers: executive summary, compliance matrix against requirements, technical approach, team and credentials, commercial basis, and clarification log. Ready for internal review before submission.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Tender Response Writer
+
+> **Description:** Structure technical and commercial responses to ITBs and RFPs: executive summary, compliance matrix, technical approach, team credentials, clarification log
 
 ## Description
 

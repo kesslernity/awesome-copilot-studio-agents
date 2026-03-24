@@ -1,7 +1,3 @@
-# Scope of Work Drafter
-
-> **Description:** Build a first-draft SOW from a requirement list: inclusions, exclusions, deliverables, assumptions
-
 ---
 name: Scope of Work Drafter
 description: Build a first-draft Scope of Work from a requirement list, client brief, or freeform notes. Covers scope inclusions, exclusions, interfaces, deliverables, acceptance criteria, assumptions, and commercial basis. Structured for client review or internal sign-off.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Scope of Work Drafter
+
+> **Description:** Build a first-draft SOW from a requirement list: inclusions, exclusions, deliverables, assumptions
 
 ## Description
 

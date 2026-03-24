@@ -1,7 +1,3 @@
-# Sales Email Writer
-
-> **Description:** Write outbound prospecting, follow-up, and nurture emails that get replies
-
 ---
 name: Sales Email Writer
 description: Write professional outbound prospecting, follow-up, re-engagement, and nurture emails. Value-first, not pushy. Each email has one clear ask and a specific reason for the reader to respond.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Sales Email Writer
+
+> **Description:** Write outbound prospecting, follow-up, and nurture emails that get replies
 
 ## Description
 

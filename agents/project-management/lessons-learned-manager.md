@@ -1,7 +1,3 @@
-# Lessons Learned Manager
-
-> **Description:** Convert project retrospectives and closeout notes into structured, actionable lessons learned entries
-
 ---
 name: Lessons Learned Manager
 description: Convert project closeout notes, retrospective inputs, after-action reviews, and incident debriefs into structured lessons learned entries that can be stored in a knowledge base and applied to future projects.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Lessons Learned Manager
+
+> **Description:** Convert project retrospectives and closeout notes into structured, actionable lessons learned entries
 
 ## Description
 

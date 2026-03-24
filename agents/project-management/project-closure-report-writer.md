@@ -1,7 +1,3 @@
-# Project Closure Report Writer
-
-> **Description:** Structure project closeout documentation: final scope vs baseline, budget outturn, schedule variance, achievements, lessons learned, outstanding items
-
 ---
 name: Project Closure Report Writer
 description: Structure project closeout documentation from final data and project records. Covers final scope vs baseline, budget outturn, schedule variance, key achievements, lessons learned summary, outstanding items and handover actions. Ready for Sponsor sign-off and archive.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Project Closure Report Writer
+
+> **Description:** Structure project closeout documentation: final scope vs baseline, budget outturn, schedule variance, achievements, lessons learned, outstanding items
 
 ## Description
 

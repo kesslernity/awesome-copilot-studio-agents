@@ -1,7 +1,3 @@
-# Professional Translator EN↔FR
-
-> **Description:** Accurate English–French business and technical translation with full register matching
-
 ---
 name: Professional Translator EN↔FR
 description: Accurate English–French professional translation for business, technical, contractual, and commercial documents. Preserves register, terminology, and document structure. Flags ambiguities with translator's notes rather than silently resolving them.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Professional Translator EN↔FR
+
+> **Description:** Accurate English–French business and technical translation with full register matching
 
 ## Description
 

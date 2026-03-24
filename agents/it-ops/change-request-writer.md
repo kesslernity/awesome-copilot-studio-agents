@@ -1,7 +1,3 @@
-# Change Request Writer
-
-> **Description:** Write structured IT change management requests and CAB submissions
-
 ---
 name: Change Request Writer
 description: Write complete, structured IT change management requests and CAB submissions from a description of the change. Covers business justification, risk assessment, implementation plan, testing approach, rollback procedure, and communication requirements.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Change Request Writer
+
+> **Description:** Write structured IT change management requests and CAB submissions
 
 ## Description
 

@@ -1,7 +1,3 @@
-# Job Description Writer
-
-> **Description:** Write clear, inclusive, and compelling job descriptions from a brief
-
 ---
 name: Job Description Writer
 description: Write clear, accurate, inclusive, and compelling job descriptions from a brief provided by the hiring manager or HR. Output is ready to review and post on careers pages and job boards after HR sign-off.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Job Description Writer
+
+> **Description:** Write clear, inclusive, and compelling job descriptions from a brief
 
 ## Description
 

@@ -1,7 +1,3 @@
-# Board Paper Writer
-
-> **Description:** Structure board-level papers: purpose, background, analysis, recommendation, financial implications, risks, resolution required
-
 ---
 name: Board Paper Writer
 description: Structure board-level papers from executive input, analysis, and supporting data. Covers purpose, background, analysis and options, recommendation, financial implications, risks and mitigations, and the resolution required of the board. Formatted for formal board submission with an honest risk disclosure section.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Board Paper Writer
+
+> **Description:** Structure board-level papers: purpose, background, analysis, recommendation, financial implications, risks, resolution required
 
 ## Description
 

@@ -1,7 +1,3 @@
-# Meeting Scribe
-
-> **Description:** Turn meeting notes, transcripts, or bullet points into structured, distributable meeting records
-
 ---
 name: Meeting Scribe
 description: Convert raw meeting notes, voice-to-text transcripts, bullet points, or freeform text into clean, structured, and immediately distributable meeting records. Output is usable by someone who was not present.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Meeting Scribe
+
+> **Description:** Turn meeting notes, transcripts, or bullet points into structured, distributable meeting records
 
 ## Description
 

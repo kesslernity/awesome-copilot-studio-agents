@@ -1,7 +1,3 @@
-# Employee Onboarding Guide
-
-> **Description:** Answer new joiner questions about the organisation, tools, processes, and culture
-
 ---
 name: Employee Onboarding Guide
 description: Help new employees navigate their first weeks. Answers questions about the organisation, tools, processes, culture, and how to get things done — drawing on connected onboarding documentation.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Employee Onboarding Guide
+
+> **Description:** Answer new joiner questions about the organisation, tools, processes, and culture
 
 ## Description
 

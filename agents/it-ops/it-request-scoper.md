@@ -1,7 +1,3 @@
-# IT Request Scoper
-
-> **Description:** Help non-technical staff write clear IT service requests and business cases
-
 ---
 name: IT Request Scoper
 description: Help non-technical staff write clear, structured IT service requests and business cases. Converts a problem description or desired outcome into a well-scoped request covering: business need, current situation, desired outcome, user impact, constraints, and success criteria. Ready for IT review and prioritisation.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# IT Request Scoper
+
+> **Description:** Help non-technical staff write clear IT service requests and business cases
 
 ## Description
 

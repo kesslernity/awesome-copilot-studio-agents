@@ -1,7 +1,3 @@
-# Budget Justification Writer
-
-> **Description:** Convert a cost item list into a formal budget justification with rationale, alternatives considered, and risk of non-approval
-
 ---
 name: Budget Justification Writer
 description: Convert a cost item list into a formal budget justification document. Produces rationale per line item, alternatives considered, risk of non-approval, and an executive summary. Structured for submission to a finance committee, budget holder, or board. Supports both capital and operational expenditure requests.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Budget Justification Writer
+
+> **Description:** Convert a cost item list into a formal budget justification with rationale, alternatives considered, and risk of non-approval
 
 ## Description
 

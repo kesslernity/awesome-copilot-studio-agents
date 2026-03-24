@@ -1,7 +1,3 @@
-# Training Needs Analyser
-
-> **Description:** Convert performance data, manager feedback, and business objectives into a structured training needs analysis
-
 ---
 name: Training Needs Analyser
 description: Convert performance review data, manager feedback, skills assessments, and business objectives into a structured training needs analysis (TNA). Identifies priority skill gaps by function, recommends intervention types, and produces a prioritisation matrix.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Training Needs Analyser
+
+> **Description:** Convert performance data, manager feedback, and business objectives into a structured training needs analysis
 
 ## Description
 

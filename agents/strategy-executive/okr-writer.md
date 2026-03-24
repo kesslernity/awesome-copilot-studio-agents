@@ -1,7 +1,3 @@
-# OKR Writer
-
-> **Description:** Convert rough goals and team priorities into well-formed OKRs with measurable Key Results and alignment checks
-
 ---
 name: OKR Writer
 description: Convert rough team goals and strategic priorities into well-formed OKRs (Objectives and Key Results). Writes measurable KRs, checks for cascade alignment, flags vanity metrics, and provides scoring guidance.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# OKR Writer
+
+> **Description:** Convert rough goals and team priorities into well-formed OKRs with measurable Key Results and alignment checks
 
 ## Description
 

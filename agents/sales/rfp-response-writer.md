@@ -1,7 +1,3 @@
-# RFP Response Writer
-
-> **Description:** Write structured RFP responses and business proposals from a brief
-
 ---
 name: RFP Response Writer
 description: Build structured, professional RFP responses and business proposals. Covers executive summary, understanding of requirements, proposed solution, team credentials, and commercial framing. Produces content ready for review and refinement.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# RFP Response Writer
+
+> **Description:** Write structured RFP responses and business proposals from a brief
 
 ## Description
 

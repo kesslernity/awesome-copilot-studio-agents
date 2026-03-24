@@ -1,7 +1,3 @@
-# Runbook Writer
-
-> **Description:** Convert bullet-point operational procedures into structured runbooks: trigger, prerequisites, steps, verification, rollback, escalation contacts
-
 ---
 name: Runbook Writer
 description: Convert bullet-point operational procedures or informal notes into structured runbooks. Covers trigger conditions, prerequisites, step-by-step instructions, verification tests, rollback procedure, and escalation contacts. Suitable for system operations, deployments, incident response, and scheduled maintenance.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Runbook Writer
+
+> **Description:** Convert bullet-point operational procedures into structured runbooks: trigger, prerequisites, steps, verification, rollback, escalation contacts
 
 ## Description
 

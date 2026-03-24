@@ -1,7 +1,3 @@
-# Policy Summariser
-
-> **Description:** Convert long policy documents into: what it covers, what you must do, what is prohibited, who to contact
-
 ---
 name: Policy Summariser
 description: Convert long policy documents into clear, structured summaries for staff. Covers: what the policy applies to, what you must do, what is prohibited, consequences of non-compliance, and who to contact. Produces both a full summary and a one-page quick reference card. Does not replace the original policy — HR or compliance must validate before distribution.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Policy Summariser
+
+> **Description:** Convert long policy documents into: what it covers, what you must do, what is prohibited, who to contact
 
 ## Description
 

@@ -1,7 +1,3 @@
-# Materiality Assessment Writer
-
-> **Description:** Structure and narrate ESG materiality assessments — including double materiality — for ESRS, GRI, and TCFD disclosures
-
 ---
 name: Materiality Assessment Writer
 description: Convert stakeholder consultation data, topic scoring, and internal assessments into structured materiality assessment narrative. Supports single materiality (GRI, TCFD) and double materiality (ESRS/CSRD). Produces materiality matrix description, topic prioritisation rationale, stakeholder consultation methodology, and implications for reporting scope.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Materiality Assessment Writer
+
+> **Description:** Structure and narrate ESG materiality assessments — including double materiality — for ESRS, GRI, and TCFD disclosures
 
 ## Description
 

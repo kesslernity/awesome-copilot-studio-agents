@@ -1,7 +1,3 @@
-# Course Outline Builder
-
-> **Description:** Build structured course outlines from learning objectives, audience profiles, and delivery constraints
-
 ---
 name: Course Outline Builder
 description: Build structured course outlines for any training programme from learning objectives, audience profiles, and delivery constraints. Produces module structure, timing, activity types, assessment design, and facilitator notes — ready to hand to a developer or facilitator.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Course Outline Builder
+
+> **Description:** Build structured course outlines from learning objectives, audience profiles, and delivery constraints
 
 ## Description
 

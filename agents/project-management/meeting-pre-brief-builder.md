@@ -1,7 +1,3 @@
-# Meeting Pre-Brief Builder
-
-> **Description:** Turn an agenda and pre-reads into a briefing for attendees: decisions needed, open questions, each person's expected contribution
-
 ---
 name: Meeting Pre-Brief Builder
 description: Turn a meeting agenda, pre-read documents, and attendee list into a structured briefing for participants. Covers: what the meeting must decide or progress, the 3–5 facts each attendee needs, open questions, each attendee's expected contribution, and what must be prepared in advance. The inverse of a meeting scribe.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Meeting Pre-Brief Builder
+
+> **Description:** Turn an agenda and pre-reads into a briefing for attendees: decisions needed, open questions, each person's expected contribution
 
 ## Description
 

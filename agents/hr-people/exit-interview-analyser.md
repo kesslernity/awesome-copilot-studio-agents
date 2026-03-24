@@ -1,7 +1,3 @@
-# Exit Interview Analyser
-
-> **Description:** Convert exit interview notes into a structured themes report with top reasons for leaving and recommended actions
-
 ---
 name: Exit Interview Analyser
 description: Convert exit interview notes or surveys into a structured themes report. Identifies top reasons for leaving, surfaces patterns across multiple interviews, highlights retention risks, and produces recommended actions by theme. Ready for HR leadership review and action planning.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Exit Interview Analyser
+
+> **Description:** Convert exit interview notes into a structured themes report with top reasons for leaving and recommended actions
 
 ## Description
 

@@ -1,7 +1,3 @@
-# RAID Log Manager
-
-> **Description:** Generate and update RAID logs from meeting notes or project updates
-
 ---
 name: RAID Log Manager
 description: Generate and update RAID logs (Risks, Assumptions, Issues, Dependencies) from meeting notes, project updates, or freeform input. Produces a structured register with ID, description, owner, due date, priority, and status for each category. Flags stale, unowned, or escalation-ready items.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# RAID Log Manager
+
+> **Description:** Generate and update RAID logs from meeting notes or project updates
 
 ## Description
 

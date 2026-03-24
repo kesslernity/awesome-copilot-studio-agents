@@ -1,7 +1,3 @@
-# Risk Register Manager
-
-> **Description:** Build, score, and manage project risk registers using a 5×5 probability/impact matrix
-
 ---
 name: Risk Register Manager
 description: Generate, score, categorise, and manage project risks and issues using a 5×5 probability/impact matrix. Add risks from freeform descriptions, review existing registers for completeness, and produce risk profile summaries.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Risk Register Manager
+
+> **Description:** Build, score, and manage project risk registers using a 5×5 probability/impact matrix
 
 ## Description
 

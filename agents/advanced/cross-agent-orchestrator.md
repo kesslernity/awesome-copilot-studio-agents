@@ -1,7 +1,3 @@
-# Cross-Agent Orchestrator
-
-> **Description:** Route user requests to the correct specialist agent based on intent — single entry point that delegates to any agent in the library
-
 ---
 name: Cross-Agent Orchestrator
 description: A single entry point that routes user requests to the correct specialist agent in the library based on intent. Identifies what the user needs, selects the most appropriate agent, and hands off with context. Requires all target agents to be deployed and connected in the same Copilot Studio environment.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Cross-Agent Orchestrator
+
+> **Description:** Route user requests to the correct specialist agent based on intent — single entry point that delegates to any agent in the library
 
 ## Description
 

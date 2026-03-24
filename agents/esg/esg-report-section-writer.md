@@ -1,7 +1,3 @@
-# ESG Report Section Writer
-
-> **Description:** Draft formal ESG and sustainability report sections aligned to GRI, TCFD, ESRS, or SASB frameworks
-
 ---
 name: ESG Report Section Writer
 description: Draft formal ESG and sustainability report sections from raw data, initiative notes, and performance metrics. Aligned to GRI, TCFD, ESRS, or SASB frameworks as specified. Produces narrative ready for sustainability report, integrated annual report, or standalone ESG disclosure.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# ESG Report Section Writer
+
+> **Description:** Draft formal ESG and sustainability report sections aligned to GRI, TCFD, ESRS, or SASB frameworks
 
 ## Description
 

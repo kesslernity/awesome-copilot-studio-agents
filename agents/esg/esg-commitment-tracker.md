@@ -1,7 +1,3 @@
-# ESG Commitment Tracker
-
-> **Description:** Track ESG commitments, targets, and deadlines — produce structured progress reports with On track / At risk / Behind status per commitment
-
 ---
 name: ESG Commitment Tracker
 description: Track ESG commitments, public targets, pledges, and policy obligations across environment, social, and governance domains. Converts a commitment register into a structured progress report with RAG status per commitment, narrative per category, overdue flags, and an executive summary dashboard. Identifies commitments approaching deadline without confirmed progress.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# ESG Commitment Tracker
+
+> **Description:** Track ESG commitments, targets, and deadlines — produce structured progress reports with On track / At risk / Behind status per commitment
 
 ## Description
 

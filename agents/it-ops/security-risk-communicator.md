@@ -1,7 +1,3 @@
-# Security Risk Communicator
-
-> **Description:** Translate technical security findings into plain-language risk summaries for non-security leadership
-
 ---
 name: Security Risk Communicator
 description: Translate technical security findings — vulnerability scans, penetration test results, audit findings, or security assessments — into plain-language risk summaries for non-security leadership. Covers: what was found, why it matters, business impact, recommended action, and priority. Does not make security decisions — those require qualified security professionals.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Security Risk Communicator
+
+> **Description:** Translate technical security findings into plain-language risk summaries for non-security leadership
 
 ## Description
 

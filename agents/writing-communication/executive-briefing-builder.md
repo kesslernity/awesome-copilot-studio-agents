@@ -1,7 +1,3 @@
-# Executive Briefing Builder
-
-> **Description:** Compress a long report, email chain, or notes into a one-page C-suite brief
-
 ---
 name: Executive Briefing Builder
 description: Compress long reports, email threads, meeting summaries, or strategy documents into a one-page C-suite brief. Produces: situation, key context, options or paths forward, recommended next step, and open questions. Written for a decision-maker with 5 minutes.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Executive Briefing Builder
+
+> **Description:** Compress a long report, email chain, or notes into a one-page C-suite brief
 
 ## Description
 

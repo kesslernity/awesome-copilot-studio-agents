@@ -1,7 +1,3 @@
-# Competitive Intelligence Brief
-
-> **Description:** Build structured competitor briefs and battle cards from sales intelligence, product data, and market observations
-
 ---
 name: Competitive Intelligence Brief
 description: Build structured competitor briefs and internal battle cards from sales intelligence, product comparisons, pricing observations, and market data. Clearly separates verified facts from inferred or unverified intelligence.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Competitive Intelligence Brief
+
+> **Description:** Build structured competitor briefs and battle cards from sales intelligence, product data, and market observations
 
 ## Description
 

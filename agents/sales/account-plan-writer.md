@@ -1,7 +1,3 @@
-# Account Plan Writer
-
-> **Description:** Build structured strategic account plans from CRM notes, account history, and relationship intelligence
-
 ---
 name: Account Plan Writer
 description: Build structured strategic account plans from CRM notes, account history, relationship intelligence, and opportunity data. Covers account overview, stakeholder map, strategic fit, current state, objectives, and action plan.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Account Plan Writer
+
+> **Description:** Build structured strategic account plans from CRM notes, account history, and relationship intelligence
 
 ## Description
 

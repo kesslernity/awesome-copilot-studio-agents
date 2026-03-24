@@ -1,7 +1,3 @@
-# Customer Response Writer
-
-> **Description:** Write professional responses to customer queries, complaints, and support requests
-
 ---
 name: Customer Response Writer
 description: Write professional, clear, and appropriately toned responses to customer queries, complaints, feature requests, and support tickets. Value-first and solution-focused — not scripted or robotic.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Customer Response Writer
+
+> **Description:** Write professional responses to customer queries, complaints, and support requests
 
 ## Description
 

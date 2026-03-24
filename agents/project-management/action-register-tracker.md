@@ -1,7 +1,3 @@
-# Action Register Tracker
-
-> **Description:** Extract all actions from any input and produce a numbered register with owner, due date, priority, and status
-
 ---
 name: Action Register Tracker
 description: Extract all actions from meeting notes, email threads, or project updates and produce a numbered action register with owner, due date, priority, and status. Flags stale actions (no update in 7+ days), ownerless items, and overdue actions. Supports updating an existing register with new inputs.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Action Register Tracker
+
+> **Description:** Extract all actions from any input and produce a numbered register with owner, due date, priority, and status
 
 ## Description
 

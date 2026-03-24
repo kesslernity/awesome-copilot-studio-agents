@@ -1,7 +1,3 @@
-# Org Announcement Writer
-
-> **Description:** Draft internal announcements for org changes: new hires, promotions, departures, restructures, leadership changes
-
 ---
 name: Org Announcement Writer
 description: Draft internal announcements for organisational changes — new hires, promotions, internal moves, departures, restructures, and leadership changes. Produces clear, appropriately toned announcements ready for distribution via email or intranet. Covers both individual and team-level changes.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Org Announcement Writer
+
+> **Description:** Draft internal announcements for org changes: new hires, promotions, departures, restructures, leadership changes
 
 ## Description
 

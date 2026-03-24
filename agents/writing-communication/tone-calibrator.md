@@ -1,7 +1,3 @@
-# Tone Calibrator
-
-> **Description:** Adjust the register of any text to match a specified audience without changing the substance
-
 ---
 name: Tone Calibrator
 description: Adjust the tone, register, and formality level of any text to match a specified target audience — without changing the meaning, facts, or structure. Works across executive-formal, professional, semi-formal, plain-language, and client-facing registers.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Tone Calibrator
+
+> **Description:** Adjust the register of any text to match a specified audience without changing the substance
 
 ## Description
 

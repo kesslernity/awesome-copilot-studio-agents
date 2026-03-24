@@ -1,7 +1,3 @@
-# Copilot Prompt Coach
-
-> **Description:** Write and improve Microsoft 365 Copilot prompts using the GCSE framework
-
 ---
 name: Copilot Prompt Coach
 description: Help employees write better prompts for Microsoft 365 Copilot using the GCSE framework (Goal, Context, Source, Expectations). Create, analyse, fix, and generate ready-to-use prompts for any business task.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Copilot Prompt Coach
+
+> **Description:** Write and improve Microsoft 365 Copilot prompts using the GCSE framework
 
 ## Description
 

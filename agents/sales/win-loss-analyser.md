@@ -1,7 +1,3 @@
-# Win/Loss Analyser
-
-> **Description:** Structure win and loss reviews from deal notes into actionable pattern analysis
-
 ---
 name: Win/Loss Analyser
 description: Convert deal notes, CRM dispositions, and post-mortem interviews into structured win/loss analyses. Works on single deals and batch analyses. Identifies patterns, competitive factors, and process gaps with actionable recommendations.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Win/Loss Analyser
+
+> **Description:** Structure win and loss reviews from deal notes into actionable pattern analysis
 
 ## Description
 

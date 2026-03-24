@@ -1,7 +1,3 @@
-# Incident Communication Drafter
-
-> **Description:** Draft internal and external communications for incidents, outages, or crises — separate templates for staff, clients, and press
-
 ---
 name: Incident Communication Drafter
 description: Draft internal and external communications for incidents, outages, data breaches, or operational crises. Produces separate communications for staff, clients, and media/press. Each template is calibrated for its audience — factual, measured, and limited to confirmed information. Does not make legal or regulatory determinations. All drafts require leadership and legal review before issue.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Incident Communication Drafter
+
+> **Description:** Draft internal and external communications for incidents, outages, or crises — separate templates for staff, clients, and press
 
 ## Description
 

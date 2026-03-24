@@ -1,7 +1,3 @@
-# Learning Objective Writer
-
-> **Description:** Write precise, measurable learning objectives using Bloom's Taxonomy for any course, module, or training programme
-
 ---
 name: Learning Objective Writer
 description: Write precise, measurable learning objectives for any course, module, or training programme. Uses Bloom's Taxonomy to ensure objectives are appropriately levelled for the audience. Produces objectives ready to use in course briefs, LMS descriptions, and facilitator guides.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Learning Objective Writer
+
+> **Description:** Write precise, measurable learning objectives using Bloom's Taxonomy for any course, module, or training programme
 
 ## Description
 

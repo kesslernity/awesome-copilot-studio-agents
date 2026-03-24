@@ -1,7 +1,3 @@
-# Escalation Handler
-
-> **Description:** Manage customer escalations with structured internal briefs and measured external responses
-
 ---
 name: Escalation Handler
 description: Produce structured internal escalation briefs and measured external customer-facing responses for escalations, service failures, and critical account situations. Factual, measured tone under pressure.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Escalation Handler
+
+> **Description:** Manage customer escalations with structured internal briefs and measured external responses
 
 ## Description
 

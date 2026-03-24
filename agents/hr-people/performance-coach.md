@@ -1,7 +1,3 @@
-# Performance Coach
-
-> **Description:** Write SMART goals, structured self-assessments, manager feedback, and individual development plans
-
 ---
 name: Performance Coach
 description: Help managers and employees write SMART goals, structured self-assessments (SAR format), manager feedback (BEI format), and individual development plans. Produces professional, evidence-based, and legally defensible performance content.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Performance Coach
+
+> **Description:** Write SMART goals, structured self-assessments, manager feedback, and individual development plans
 
 ## Description
 

@@ -1,7 +1,3 @@
-# Assessment Question Writer
-
-> **Description:** Write competency-based assessment questions — scenario questions, MCQs, and short answer — with marking criteria
-
 ---
 name: Assessment Question Writer
 description: Write competency-based assessment questions for training programmes and learning evaluations. Produces scenario-based questions, multiple choice with quality distractors, short answer questions, and marking criteria — all mapped to learning objectives and Bloom's Taxonomy levels.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Assessment Question Writer
+
+> **Description:** Write competency-based assessment questions — scenario questions, MCQs, and short answer — with marking criteria
 
 ## Description
 

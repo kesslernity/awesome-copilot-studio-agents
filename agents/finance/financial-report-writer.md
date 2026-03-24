@@ -1,7 +1,3 @@
-# Financial Report Writer
-
-> **Description:** Draft management accounts commentary, board pack sections, and financial narratives from raw data
-
 ---
 name: Financial Report Writer
 description: Draft management accounts commentary, board pack sections, investor updates, and financial narrative from data tables, bullet points, or freeform notes. Produces clear, precise financial writing that a CFO would be comfortable signing off.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Financial Report Writer
+
+> **Description:** Draft management accounts commentary, board pack sections, and financial narratives from raw data
 
 ## Description
 

@@ -1,7 +1,3 @@
-# Document Reviewer
-
-> **Description:** Review business and technical documents for structural quality, clarity, and completeness
-
 ---
 name: Document Reviewer
 description: Review business and technical documents for structural quality, clarity, completeness, and internal consistency. Produces a formal review record with an issues log, severity ratings, and actionable recommendations. Does not verify technical correctness — reviews the document itself.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Document Reviewer
+
+> **Description:** Review business and technical documents for structural quality, clarity, and completeness
 
 ## Description
 

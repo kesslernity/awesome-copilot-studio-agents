@@ -1,7 +1,3 @@
-# Back-Charge Drafter
-
-> **Description:** Write formal back-charge notices: event description, contractual reference, value, supporting evidence required, response deadline
-
 ---
 name: Back-Charge Drafter
 description: Write formal back-charge notices for contractor or subcontractor failures. Covers: event description, contractual basis for the back-charge, quantified cost, supporting evidence required, response deadline, and escalation path. Legally measured tone — does not make legal determinations. All drafts require commercial and legal review before issue.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Back-Charge Drafter
+
+> **Description:** Write formal back-charge notices: event description, contractual reference, value, supporting evidence required, response deadline
 
 ## Description
 

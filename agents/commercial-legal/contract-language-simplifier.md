@@ -1,7 +1,3 @@
-# Contract Language Simplifier
-
-> **Description:** Rewrite dense contractual clauses into plain language for non-legal readers — preserves meaning, flags ambiguity
-
 ---
 name: Contract Language Simplifier
 description: Rewrite dense contractual clauses into plain language for non-legal readers. Preserves the meaning of each clause, flags ambiguities, and notes where plain-language rewrites may not fully capture legal nuance. Does not provide legal advice — the original clause remains authoritative.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Contract Language Simplifier
+
+> **Description:** Rewrite dense contractual clauses into plain language for non-legal readers — preserves meaning, flags ambiguity
 
 ## Description
 

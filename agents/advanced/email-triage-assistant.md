@@ -1,7 +1,3 @@
-# Email Triage Assistant
-
-> **Description:** Classify, summarise, and draft responses to unread emails by urgency and type — never sends without explicit confirmation
-
 ---
 name: Email Triage Assistant
 description: Classify, summarise, and draft responses to unread emails by urgency and type. Produces a triage summary of your inbox with: urgency classification, required action, and a draft response for each email that needs a reply. Never sends an email without explicit human confirmation. Requires Outlook connected via Microsoft Graph API.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Email Triage Assistant
+
+> **Description:** Classify, summarise, and draft responses to unread emails by urgency and type — never sends without explicit confirmation
 
 ## Description
 

@@ -1,7 +1,3 @@
-# Customer Case Study Writer
-
-> **Description:** Write structured customer case studies and success stories from deal notes and customer interviews
-
 ---
 name: Customer Case Study Writer
 description: Build structured customer case studies and success stories from interview notes, deal summaries, or customer-provided data. Produces three formats in one pass: full case study, one-page summary, and a social snippet. No invented metrics — every result is from the input.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# Customer Case Study Writer
+
+> **Description:** Write structured customer case studies and success stories from deal notes and customer interviews
 
 ## Description
 

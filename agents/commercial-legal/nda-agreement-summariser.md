@@ -1,7 +1,3 @@
-# NDA & Agreement Summariser
-
-> **Description:** Summarise key clauses from NDAs and service contracts: obligations, restrictions, term, liability cap, termination rights
-
 ---
 name: NDA & Agreement Summariser
 description: Summarise key clauses from NDAs and service contracts for non-legal readers. Covers: obligations of each party, restrictions and prohibitions, agreement term and renewal, liability cap and exclusions, termination rights, and any unusual or onerous clauses. Does not provide legal advice — legal review is required before signing.
@@ -16,6 +12,10 @@ tested: no
 version: 1.0
 last_updated: 2026-03-24
 ---
+
+# NDA & Agreement Summariser
+
+> **Description:** Summarise key clauses from NDAs and service contracts: obligations, restrictions, term, liability cap, termination rights
 
 ## Description
 
