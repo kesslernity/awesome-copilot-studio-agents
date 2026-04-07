@@ -268,6 +268,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and [AUTHORING-CHECKLIST.md](AUTHORING-CH
 - **[365 Copilot Prompts](https://github.com/kesslernity/awesome-microsoft-copilot-prompts)** — the companion prompts repository
 - **[NerdyChefs.ai](https://nerdychefs.ai)** — 1,600+ free AI prompts
 - **[Kesslernity](https://kesslernity.com)** — enterprise AI deployment platform
+- **[RemoteOpenClaw](https://remoteopenclaw.com)** — open marketplace for AI skills and personas built on OpenClaw
 - **[License](https://creativecommons.org/licenses/by-sa/4.0/)** — CC BY-SA 4.0
 
 ---
