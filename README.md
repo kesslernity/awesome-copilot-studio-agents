@@ -225,7 +225,11 @@ The library contains 73 agents across 13 domains. See [AGENTS.md](AGENTS.md) for
 
 **Using Microsoft 365 Copilot prompts rather than agents?**
 
-[**Awesome Microsoft Copilot Prompts →**](https://github.com/kesslernity/awesome-microsoft-copilot-prompts) — 365 production-tested M365 Copilot prompts across 17 role-specific collections. No Copilot Studio required — paste directly into Copilot Chat, Outlook, Teams, or Word.
+[**Awesome Microsoft Copilot Prompts →**](https://github.com/kesslernity/awesome-microsoft-copilot-prompts) — 400+ production-tested M365 Copilot prompts across 18 role-specific collections. No Copilot Studio required — paste directly into Copilot Chat, Outlook, Teams, or Word.
+
+**Running automated recurring briefings without building an agent?**
+
+[**Scheduled Prompts →**](https://github.com/kesslernity/awesome-microsoft-copilot-prompts/tree/main/prompts/scheduled-prompts) — 15 prompts designed to run automatically on a recurring schedule. Daily email briefings, weekly pipeline reviews, and Friday team summaries that run without you. Set up in 2 minutes via the clock icon in Copilot Chat. Requires M365 Copilot paid licence. GA since January 2026.
 
 **Need enterprise AI deployment support?**
 
