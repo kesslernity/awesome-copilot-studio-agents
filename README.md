@@ -251,6 +251,8 @@ The library contains 73 agents across 13 domains. See [AGENTS.md](AGENTS.md) for
 - **Follow on LinkedIn:** [Mathieu Kessler](https://linkedin.com/in/mathieukessler) — enterprise AI deployment and agent design
 
 ---
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense. TypeScript/Node.js. MIT.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update. TypeScript/Node.js. MIT.
 
 ## Contributing
 
