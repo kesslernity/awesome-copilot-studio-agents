@@ -1,13 +1,13 @@
 # Awesome Copilot Studio Agents
 
-> **89 production-ready declarative agents for Microsoft 365 Copilot.**
+> **94 production-ready declarative agents for Microsoft 365 Copilot.**
 > Paste each instruction block into Copilot Studio → New agent → Instructions field.
 > No coding required. Deploy in minutes.
 
 [![GitHub stars](https://img.shields.io/github/stars/kesslernity/awesome-copilot-studio-agents?style=flat-square)](https://github.com/kesslernity/awesome-copilot-studio-agents/stargazers)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-> **89 production-ready agents across 17 domains.** See [AGENTS.md](AGENTS.md) for the complete library.
+> **94 production-ready agents across 17 domains and the Investment Banking & M&A industry pack.** See [AGENTS.md](AGENTS.md) for the complete library.
 
 ---
 
@@ -32,19 +32,19 @@ Want to go beyond agents? **AI Quick Start Essentials** is a free 35-minute cour
 
 ## Deploying Copilot for your org?
 
-The **[M365 Copilot Practitioner Kit](https://kesslermathieu.gumroad.com/l/kpfpi)** covers the full picture: IT prerequisites, governance before you publish, a 90-day rollout roadmap, 26 field guides, and 10 agent templates with practitioner notes on when to build each and what breaks in week one.
+The **[M365 Copilot Practitioner Kit](https://store.kesslernity.com/l/kpfpi)** covers the full picture: IT prerequisites, governance before you publish, a 90-day rollout roadmap, 26 field guides, and 10 agent templates with practitioner notes on when to build each and what breaks in week one.
 
-**[Get the kit →](https://kesslermathieu.gumroad.com/l/kpfpi)**
+**[Get the kit →](https://store.kesslernity.com/l/kpfpi)**
 
 ---
 
 ## The Craft Behind These Agents
 
-Every one of the 89 agents in this library lives inside the same 8,000-character limit and the same failure modes. When your own instruction block drifts, runs long, or won't hold its output format, the fix is a pattern — not more instructions.
+Every one of the 94 agents in this library lives inside the same 8,000-character limit and the same failure modes. When your own instruction block drifts, runs long, or won't hold its output format, the fix is a pattern — not more instructions.
 
-**[Agent Instruction Block Design Guide](https://kesslermathieu.gumroad.com/l/eyeauo)** ($19) — 12 design patterns with before/after rewrites, the 8 named ways instruction blocks break, the 8,000-character constraint solved, a reusable scaffold, 5 full worked rewrites, and a 10-question deployment test. Covers Agent Builder vs Copilot Studio and every field limit.
+**[Agent Instruction Block Design Guide](https://store.kesslernity.com/l/eyeauo)** ($19) — 12 design patterns with before/after rewrites, the 8 named ways instruction blocks break, the 8,000-character constraint solved, a reusable scaffold, 5 full worked rewrites, and a 10-question deployment test. Covers Agent Builder vs Copilot Studio and every field limit.
 
-> Deciding *whether* an agent is even the right tool? **[When Not to Use AI](https://kesslermathieu.gumroad.com/l/nusvz)** ($29) — the pre-flight check before you build. Or **[get both for $39](https://kesslermathieu.gumroad.com/l/oocxx)**.
+> Deciding *whether* an agent is even the right tool? **[When Not to Use AI](https://store.kesslernity.com/l/nusvz)** ($29) — the pre-flight check before you build. Or **[get both for $39](https://store.kesslernity.com/l/oocxx)**.
 
 ---
 
@@ -262,6 +262,21 @@ A complete 13-agent suite built for Engineering, Procurement, and Construction p
 
 [**View the EPC & Energy Agent Pack →**](agents/industry/epc-energy/README.md)
 
+### Investment Banking & M&A
+
+**5 agents, available now** — a deal-team suite for transaction structuring and diligence: requirements checklists cited to internal policy, CIM extraction with confidence grades, term sheet deviation reports, data-room provision sweeps with honest coverage reports, and a precedent library interface. Banking guardrails throughout: every agent retrieves and cites, none approves, prices, or advises. AI prepares, committees decide.
+
+| # | Agent | Description | Audience | Knowledge | Invoke |
+|---|-------|-------------|----------|-----------|--------|
+| 90 | [**Deal Requirements Navigator**](agents/industry/investment-banking/structuring-requirements-navigator.md) | Retrieve structuring requirements as a checklist cited to internal policy (gaps flagged, never invented) | IB Deal Teams / Structuring | Required: policy SharePoint | `@Deal Requirements Navigator ...` |
+| 91 | [**CIM & Teaser Digester**](agents/industry/investment-banking/cim-teaser-digester.md) | Extract a CIM or teaser into a referenced dataset with confidence grades (no valuation) | IB Analysts / Deal Teams | None | `@CIM & Teaser Digester ...` |
+| 92 | [**Term Sheet Consistency Check**](agents/industry/investment-banking/term-sheet-consistency-checker.md) | Flag every deviation between a draft and the approved position, both clauses quoted verbatim | IB Deal Teams | Optional: deal Notebook | `@Term Sheet Consistency Check ...` |
+| 93 | [**Data Room Extraction Sweep**](agents/industry/investment-banking/data-room-extraction-sweep.md) | Sweep a data-room folder into a provision tracker with a full coverage report (Cowork for full sweeps) | Deal Teams / Legal / Diligence | Required: data-room folder | `@Data Room Extraction Sweep ...` |
+| 94 | [**Deal Precedent Finder**](agents/industry/investment-banking/deal-precedent-finder.md) | Retrieve comparable past deals with terms and sources; capture closed deals into the library | Deal Teams / Coverage | Required: precedent library | `@Deal Precedent Finder ...` |
+
+[**View the Investment Banking & M&A Pack →**](agents/industry/investment-banking/README.md)
+
+
 ---
 
 ## Notes
@@ -276,7 +291,7 @@ A complete 13-agent suite built for Engineering, Procurement, and Construction p
 
 ## Full Library
 
-The library contains 89 agents across 17 domains. See [AGENTS.md](AGENTS.md) for the complete index with links to every agent.
+The library contains 94 agents across 17 domains and the Investment Banking & M&A industry pack. See [AGENTS.md](AGENTS.md) for the complete index with links to every agent.
 
 ---
 
@@ -292,7 +307,7 @@ Start free with the [Licence-Plate Test](https://store.kesslernity.com/l/licence
 
 **Want the full M365 Copilot deployment package?**
 
-[**M365 Copilot Practitioner Kit →**](https://kesslermathieu.gumroad.com/l/kpfpi) — 26 field guides, 90-day rollout roadmap, governance checklist, 10 production-ready agent templates with practitioner notes, and an ROI conversation template. Built for IT admins and Copilot champions doing a real deployment.
+[**M365 Copilot Practitioner Kit →**](https://store.kesslernity.com/l/kpfpi) — 26 field guides, 90-day rollout roadmap, governance checklist, 10 production-ready agent templates with practitioner notes, and an ROI conversation template. Built for IT admins and Copilot champions doing a real deployment.
 
 **Using Microsoft 365 Copilot prompts rather than agents?**
 
@@ -335,7 +350,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and [AUTHORING-CHECKLIST.md](AUTHORING-CH
 
 ## Quick Links
 
-- **[Agent Library](AGENTS.md)** — complete index of all 89 agents with links
+- **[Agent Library](AGENTS.md)** — complete index of all 94 agents with links
 - **[Authoring Checklist](AUTHORING-CHECKLIST.md)** — standards for contributing agents
 - **[Contributing Guide](CONTRIBUTING.md)** — submission process
 - **[AI at Work Newsletter](https://newsletter.kesslernity.com)** — biweekly GenAI briefing

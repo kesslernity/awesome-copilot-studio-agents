@@ -1,22 +1,21 @@
 # Awesome Copilot Studio Agents
 
-> **89 production-ready declarative agents for Microsoft 365 Copilot.**
+> **94 production-ready declarative agents for Microsoft 365 Copilot.**
 > Paste each instruction block into Copilot Studio → New agent → Instructions field.
 > No coding required. Deploy in minutes.
 
 [![GitHub stars](https://img.shields.io/github/stars/kesslernity/awesome-copilot-studio-agents?style=flat-square)](https://github.com/kesslernity/awesome-copilot-studio-agents/stargazers)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-> **89 production-ready agents across 17 domains.** See [AGENTS.md](AGENTS.md) for the complete library.
+> **94 production-ready agents across 17 domains and the Investment Banking & M&A industry pack.** See [AGENTS.md](AGENTS.md) for the complete library.
 
-> **Skip the paste step:** the free **[Copilot Agent Pack sample](https://store.kesslernity.com/l/copilot-agent-pack-sample?utm_source=github&utm_medium=readme&utm_campaign=agents_repo)** is one complete governed agent (Meeting-to-Action) packaged as an import-ready .zip, with a one-page guide covering the one tenant permission it needs.
 ---
 
 ## AI at Work — Newsletter
 
 Tested prompts for Microsoft 365 Copilot. One role at a time. Plus verified GenAI news and one insight you won't find in a changelog. Biweekly, 4-minute read.
 
-**[Subscribe free →](https://newsletter.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=agents_repo)**. No spam, no fluff, unsubscribe anytime.
+**[Subscribe free →](https://newsletter.kesslernity.com)** — no spam, no fluff, unsubscribe anytime.
 
 ## The Prompt Pantry — Weekly from NerdyChefs.ai
 
@@ -248,6 +247,21 @@ A complete 13-agent suite built for Engineering, Procurement, and Construction p
 
 [**View the EPC & Energy Agent Pack →**](agents/industry/epc-energy/README.md)
 
+### Investment Banking & M&A
+
+**5 agents, available now** — a deal-team suite for transaction structuring and diligence: requirements checklists cited to internal policy, CIM extraction with confidence grades, term sheet deviation reports, data-room provision sweeps with honest coverage reports, and a precedent library interface. Banking guardrails throughout: every agent retrieves and cites, none approves, prices, or advises. AI prepares, committees decide.
+
+| # | Agent | Description | Audience | Knowledge | Invoke |
+|---|-------|-------------|----------|-----------|--------|
+| 90 | [**Deal Requirements Navigator**](agents/industry/investment-banking/structuring-requirements-navigator.md) | Retrieve structuring requirements as a checklist cited to internal policy (gaps flagged, never invented) | IB Deal Teams / Structuring | Required: policy SharePoint | `@Deal Requirements Navigator ...` |
+| 91 | [**CIM & Teaser Digester**](agents/industry/investment-banking/cim-teaser-digester.md) | Extract a CIM or teaser into a referenced dataset with confidence grades (no valuation) | IB Analysts / Deal Teams | None | `@CIM & Teaser Digester ...` |
+| 92 | [**Term Sheet Consistency Check**](agents/industry/investment-banking/term-sheet-consistency-checker.md) | Flag every deviation between a draft and the approved position, both clauses quoted verbatim | IB Deal Teams | Optional: deal Notebook | `@Term Sheet Consistency Check ...` |
+| 93 | [**Data Room Extraction Sweep**](agents/industry/investment-banking/data-room-extraction-sweep.md) | Sweep a data-room folder into a provision tracker with a full coverage report (Cowork for full sweeps) | Deal Teams / Legal / Diligence | Required: data-room folder | `@Data Room Extraction Sweep ...` |
+| 94 | [**Deal Precedent Finder**](agents/industry/investment-banking/deal-precedent-finder.md) | Retrieve comparable past deals with terms and sources; capture closed deals into the library | Deal Teams / Coverage | Required: precedent library | `@Deal Precedent Finder ...` |
+
+[**View the Investment Banking & M&A Pack →**](agents/industry/investment-banking/README.md)
+
+
 ---
 
 ## Notes
@@ -262,26 +276,31 @@ A complete 13-agent suite built for Engineering, Procurement, and Construction p
 
 ## Full Library
 
-The library contains 89 agents across 17 domains. See [AGENTS.md](AGENTS.md) for the complete index with links to every agent.
+The library contains 94 agents across 17 domains and the Investment Banking & M&A industry pack. See [AGENTS.md](AGENTS.md) for the complete index with links to every agent.
 
 ---
 
-## More from Kesslernity
+## Related Resources
 
-This repo is free and stays free. If it's useful, here's the rest of the toolkit.
+**On Copilot Chat, not the premium licence?**
 
-**Free**
-- 📄 **Copilot on One Page** — the one-page cheat sheet for getting real answers out of Copilot. [Free download](https://store.kesslernity.com/l/copilot-on-one-page)
+[**Awesome Copilot Chat Agents →**](https://github.com/kesslernity/awesome-copilot-chat-agents) — 82 ready-to-deploy agents built for **Copilot Chat — no premium M365 Copilot licence required**. Works on any commercial M365 plan, no SharePoint grounding needed. The companion to this repo for the majority of your org that isn't on the paid Copilot seat.
 
-**The rest of the free Copilot repos**
-- [awesome-microsoft-copilot-prompts](https://github.com/kesslernity/awesome-microsoft-copilot-prompts) — 400+ tested Copilot prompts
-- [awesome-copilot-chat-agents](https://github.com/kesslernity/awesome-copilot-chat-agents) — Copilot Chat agents, no premium licence needed
-- [awesome-copilot-cowork-skills](https://github.com/kesslernity/awesome-copilot-cowork-skills) — Cowork skills
+**Using Microsoft 365 Copilot prompts rather than agents?**
 
-**Deploying Copilot for a team?**
-- 🛒 Deployment kits, governance playbooks, and the honest "when not to use it" guides, built so you can deploy Copilot without a consultant: **[kesslernity.com/store](https://kesslernity.com/store)**
+[**Awesome Microsoft Copilot Prompts →**](https://github.com/kesslernity/awesome-microsoft-copilot-prompts) — 573 production-tested M365 Copilot prompts across 20 role-specific collections. No Copilot Studio required — paste directly into Copilot Chat, Outlook, Teams, or Word.
 
-Independent and vendor-neutral. Not affiliated with Microsoft.
+**Running automated recurring briefings without building an agent?**
+
+[**Scheduled Prompts →**](https://github.com/kesslernity/awesome-microsoft-copilot-prompts/tree/main/prompts/scheduled-prompts) — 15 prompts designed to run automatically on a recurring schedule. Daily email briefings, weekly pipeline reviews, and Friday team summaries that run without you. Set up in 2 minutes via the clock icon in Copilot Chat. Requires M365 Copilot paid licence. GA since January 2026.
+
+**Need enterprise AI deployment support?**
+
+[**Kesslernity →**](https://kesslernity.com) — Enterprise AI deployment platform covering governed agents, adoption strategy, and team training programmes.
+
+**More free AI prompts and tools?**
+
+[**NerdyChefs.ai →**](https://nerdychefs.ai) — 1,600+ free AI prompts across 73 packs, no signup required.
 
 ---
 
@@ -308,7 +327,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and [AUTHORING-CHECKLIST.md](AUTHORING-CH
 
 ## Quick Links
 
-- **[Agent Library](AGENTS.md)** — complete index of all 89 agents with links
+- **[Agent Library](AGENTS.md)** — complete index of all 94 agents with links
 - **[Authoring Checklist](AUTHORING-CHECKLIST.md)** — standards for contributing agents
 - **[Contributing Guide](CONTRIBUTING.md)** — submission process
 - **[AI at Work Newsletter](https://newsletter.kesslernity.com)** — biweekly GenAI briefing
