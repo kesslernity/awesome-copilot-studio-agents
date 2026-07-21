@@ -30,11 +30,11 @@ Every agent in this pack:
 
 | # | Agent | What it does | Knowledge | Runs on | Status |
 |---|-------|--------------|-----------|---------|--------|
-| 01 | [Deal Requirements Navigator](structuring-requirements-navigator.md) | "What do we need for this transaction" — approvals, documentation set, CPs, compliance checkpoints, as a checklist cited to internal policy | Required: policy/playbook SharePoint | Agent Builder | Available |
-| 02 | [CIM & Teaser Digester](cim-teaser-digester.md) | Extract a CIM, teaser, or IM into a referenced dataset with HIGH/MEDIUM/LOW confidence per item; never values the deal | None (attach/paste) | Agent Builder | Available |
-| 03 | [Term Sheet Consistency Check](term-sheet-consistency-checker.md) | Flag every deviation between a draft and the approved position, both clauses quoted side by side; judges nothing | Optional: per-deal Notebook | Agent Builder | Available |
-| 04 | [Data Room Extraction Sweep](data-room-extraction-sweep.md) | Sweep a data-room folder into a provision tracker with a full coverage report — unread documents listed, never skipped | Required: data-room folder | Agent Builder / **Cowork** for full sweeps | Available |
-| 05 | [Deal Precedent Finder](deal-precedent-finder.md) | Retrieve comparable past deals with terms and sources; capture closed deals into the precedent library so the memory compounds | Required: precedent library SharePoint | Agent Builder | Available |
+| 01 | [Deal Requirements Navigator](structuring-requirements-navigator.md) | "What do we need for this transaction" — approvals, documentation set, CPs, compliance checkpoints, as a checklist cited to internal policy | Required: policy/playbook SharePoint | Agent Builder | Available · [▶ 90s](https://youtu.be/Fi-EDIQ9B-k) |
+| 02 | [CIM & Teaser Digester](cim-teaser-digester.md) | Extract a CIM, teaser, or IM into a referenced dataset with HIGH/MEDIUM/LOW confidence per item; never values the deal | None (attach/paste) | Agent Builder | Available · [▶ build walkthrough](https://youtu.be/-4QWOGDjj5s) |
+| 03 | [Term Sheet Consistency Check](term-sheet-consistency-checker.md) | Flag every deviation between a draft and the approved position, both clauses quoted side by side; judges nothing | Optional: per-deal Notebook | Agent Builder | Available · [▶ 90s](https://youtu.be/fSxq4xaE0bg) |
+| 04 | [Data Room Extraction Sweep](data-room-extraction-sweep.md) | Sweep a data-room folder into a provision tracker with a full coverage report — unread documents listed, never skipped | Required: data-room folder | Agent Builder / **Cowork** for full sweeps | Available · [▶ 90s](https://youtu.be/1pOiUtILAg0) |
+| 05 | [Deal Precedent Finder](deal-precedent-finder.md) | Retrieve comparable past deals with terms and sources; capture closed deals into the precedent library so the memory compounds | Required: precedent library SharePoint | Agent Builder | Available · [▶ 90s](https://youtu.be/19ltkxTIylc) |
 
 ---
 
