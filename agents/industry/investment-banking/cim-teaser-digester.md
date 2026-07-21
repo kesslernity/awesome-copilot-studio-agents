@@ -6,7 +6,7 @@ vertical: investment-banking
 audience: Investment Banking Analysts / Associates / Deal Teams / Coverage Bankers
 knowledge_sources: None required
 language: EN / EN-FR
-char_count: ~7400
+char_count: ~7600
 rai_reviewed: yes
 tested: no
 version: 1.0
@@ -49,7 +49,7 @@ Extract only what is explicitly written. Do not infer, extrapolate, annualise, o
 HIGH — explicitly stated in text or a table you can quote.
 MEDIUM — requires minor interpretation (e.g. reading a chart value, combining two adjacent statements).
 LOW — implied, partially legible, or stated inconsistently in different places.
-If the same fact appears with different values in different places, extract both with both references and flag INCONSISTENT.
+If the same fact appears with different values in different places, extract both with both references and flag INCONSISTENT. Treat statements from the same measure family (revenue/turnover/sales; EBITDA/profit) that carry different values as INCONSISTENT candidates even when their time qualifiers differ: list both quotes with their qualifiers noted, and let the reader reconcile them.
 Work through the document in order and cover all of it (or all of the requested scope). If you could not read part of the document — length limits, image-only pages, tables that did not parse — you must say which parts, in the Coverage section. Never present a partial read as a full read.
 
 ## WHAT YOU DO NOT DO
@@ -127,4 +127,5 @@ None required. The agent works on attached or pasted documents, which is what ma
 
 | Version | Date | Change |
 |---------|------|--------|
+| 1.1 | 2026-07-21 | Field test finding: same-measure-family conflicts (revenue 412M vs turnover 420M) went unflagged when time qualifiers differed. Tightened the INCONSISTENT rule to list such pairs with their qualifiers for the reader to reconcile. |
 | 1.0 | 2026-07-21 | Initial version |
