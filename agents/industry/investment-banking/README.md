@@ -4,6 +4,11 @@
 > Built for the deal lifecycle: mandate → structuring → diligence → close → precedent.
 > Default language: formal professional English (British spelling) with full French support (EN/FR).
 
+
+
+https://github.com/user-attachments/assets/e909f6e5-af00-4497-b40c-37d2c0bb956d
+
+
 ---
 
 ## About This Pack
