@@ -8,6 +8,8 @@
 
 https://github.com/user-attachments/assets/e909f6e5-af00-4497-b40c-37d2c0bb956d
 
+*The full build in 100 seconds — also on [YouTube](https://youtu.be/-4QWOGDjj5s) with captions and chapters.*
+
 
 ---
 
