@@ -15,7 +15,7 @@
 
 Tested prompts for Microsoft 365 Copilot. One role at a time. Plus verified GenAI news and one insight you won't find in a changelog. Biweekly, 4-minute read.
 
-**[Subscribe free →](https://newsletter.kesslernity.com)** — no spam, no fluff, unsubscribe anytime.
+**[Subscribe free →](https://newsletter.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md)**: no spam, no fluff, unsubscribe anytime.
 
 ## The Prompt Pantry — Weekly from NerdyChefs.ai
 
@@ -27,24 +27,24 @@ The site gives you the prompts. The newsletter gives you the judgment — when t
 
 Want to go beyond agents? **AI Quick Start Essentials** is a free 35-minute course covering responsible AI use and practical human+AI collaboration workflows.
 
-**[Start the free course →](https://trainings.kesslernity.com)** — no signup wall, no credit card.
+**[Start the free course →](https://trainings.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md)**: no signup wall, no credit card.
 
 
 ## Deploying Copilot for your org?
 
-The **[M365 Copilot Practitioner Kit](https://store.kesslernity.com/l/kpfpi)** covers the full picture: IT prerequisites, governance before you publish, a 90-day rollout roadmap, 26 field guides, and 10 agent templates with practitioner notes on when to build each and what breaks in week one.
+The **[M365 Copilot Deployment Kit](https://www.kesslernity.com/kit?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md)** covers the full picture: IT prerequisites, governance before you publish, a 90-day rollout roadmap, 26 field guides, and 10 agent templates with practitioner notes on when to build each and what breaks in week one.
 
-**[Get the kit →](https://store.kesslernity.com/l/kpfpi)**
+**[See what is in the kit →](https://www.kesslernity.com/kit?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md)**
 
 ---
 
 ## The Craft Behind These Agents
 
-Every one of the 94 agents in this library lives inside the same 8,000-character limit and the same failure modes. When your own instruction block drifts, runs long, or won't hold its output format, the fix is a pattern — not more instructions.
+Every one of the 94 agents in this library lives inside the same 8,000-character limit and the same failure modes. When your own instruction block drifts, runs long, or won't hold its output format, the fix is a pattern rather than more instructions.
 
-**[Agent Instruction Block Design Guide](https://store.kesslernity.com/l/eyeauo)** ($19) — 12 design patterns with before/after rewrites, the 8 named ways instruction blocks break, the 8,000-character constraint solved, a reusable scaffold, 5 full worked rewrites, and a 10-question deployment test. Covers Agent Builder vs Copilot Studio and every field limit.
+**[Agent Instruction Block Design Guide](https://www.kesslernity.com/products/agent-instruction-block-design-guide?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md)** ($19): 12 design patterns with before/after rewrites, the 8 named ways instruction blocks break, the 8,000-character constraint solved, a reusable scaffold, 5 full worked rewrites, and a 10-question deployment test. Covers Agent Builder vs Copilot Studio and every field limit.
 
-> Deciding *whether* an agent is even the right tool? **[When Not to Use AI](https://store.kesslernity.com/l/nusvz)** ($29) — the pre-flight check before you build. Or **[get both for $39](https://store.kesslernity.com/l/oocxx)**.
+> Deciding *whether* an agent is even the right tool? **[When Not to Use AI](https://www.kesslernity.com/products/when-not-to-use-ai?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md)** ($29): the pre-flight check before you build. Or **[get both for $39](https://www.kesslernity.com/products/from-decision-to-deployment?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md)**.
 
 ---
 
@@ -299,7 +299,7 @@ The library contains 94 agents across 17 domains and the Investment Banking & M&
 
 If you are running AI in an enterprise and the question "who owns the model's mistake?" does not yet have a name against it, **Critical Density** is the responsibility-and-audit playbook: how dependency builds invisibly, why attribution has to be installed before an incident, and a five-artifact toolkit (the Density Register, the Attribution-Readiness Checklist, the RACI-for-AI, the Audit Question Bank, and the Governance-Cadence Control Spec). Audit-grade, EU AI Act-aware, sector-neutral.
 
-Start free with the [Licence-Plate Test](https://store.kesslernity.com/l/licence-plate-test) (a 12-question attribution self-test), or get the full book + toolkit: [Critical Density, $59](https://store.kesslernity.com/l/critical-density).
+Start free with the [Licence-Plate Test](https://store.kesslernity.com/l/licence-plate-test?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md) (a 12-question attribution self-test), or get the full book plus toolkit: [Critical Density, $59](https://www.kesslernity.com/critical-density?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md).
 
 ---
 
@@ -307,7 +307,7 @@ Start free with the [Licence-Plate Test](https://store.kesslernity.com/l/licence
 
 **Want the full M365 Copilot deployment package?**
 
-[**M365 Copilot Practitioner Kit →**](https://store.kesslernity.com/l/kpfpi) — 26 field guides, 90-day rollout roadmap, governance checklist, 10 production-ready agent templates with practitioner notes, and an ROI conversation template. Built for IT admins and Copilot champions doing a real deployment.
+[**M365 Copilot Deployment Kit →**](https://www.kesslernity.com/kit?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md): 26 field guides, 90-day rollout roadmap, governance checklist, 10 production-ready agent templates with practitioner notes, and an ROI conversation template. Built for IT admins and Copilot champions doing a real deployment.
 
 **Using Microsoft 365 Copilot prompts rather than agents?**
 
@@ -317,9 +317,9 @@ Start free with the [Licence-Plate Test](https://store.kesslernity.com/l/licence
 
 [**Scheduled Prompts →**](https://github.com/kesslernity/awesome-microsoft-copilot-prompts/tree/main/prompts/scheduled-prompts) — 15 prompts designed to run automatically on a recurring schedule. Daily email briefings, weekly pipeline reviews, and Friday team summaries that run without you. Set up in 2 minutes via the clock icon in Copilot Chat. Requires M365 Copilot paid licence. GA since January 2026.
 
-**Need enterprise AI deployment support?**
+**Deploying Copilot across a team?**
 
-[**Kesslernity →**](https://kesslernity.com) — Enterprise AI deployment platform covering governed agents, adoption strategy, and team training programmes.
+[**Kesslernity →**](https://www.kesslernity.com/store?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md): deployment tools for M365 Copilot teams. Frameworks, agent templates and decision guides you own outright, with no platform to log into and no consultant in the loop.
 
 **More free AI prompts and tools?**
 
@@ -353,11 +353,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and [AUTHORING-CHECKLIST.md](AUTHORING-CH
 - **[Agent Library](AGENTS.md)** — complete index of all 94 agents with links
 - **[Authoring Checklist](AUTHORING-CHECKLIST.md)** — standards for contributing agents
 - **[Contributing Guide](CONTRIBUTING.md)** — submission process
-- **[AI at Work Newsletter](https://newsletter.kesslernity.com)** — biweekly GenAI briefing
-- **[Free AI Course](https://trainings.kesslernity.com)** — AI Quick Start Essentials (35 min, free)
+- **[AI at Work Newsletter](https://newsletter.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md_ql)**: biweekly GenAI briefing
+- **[Free AI Course](https://trainings.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md_ql)**: AI Quick Start Essentials (35 min, free)
 - **[365 Copilot Prompts](https://github.com/kesslernity/awesome-microsoft-copilot-prompts)** — the companion prompts repository
 - **[NerdyChefs.ai](https://nerdychefs.ai)** — 1,600+ free AI prompts
-- **[Kesslernity](https://kesslernity.com)** — enterprise AI deployment platform
+- **[Kesslernity Store](https://www.kesslernity.com/store?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md_ql)**: deployment tools for M365 Copilot teams
 - **[License](https://creativecommons.org/licenses/by-sa/4.0/)** — CC BY-SA 4.0
 
 ---
