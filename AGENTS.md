@@ -1,13 +1,13 @@
 # Awesome Copilot Studio Agents
 
-> **94 production-ready declarative agents for Microsoft 365 Copilot.**
+> **103 production-ready declarative agents for Microsoft 365 Copilot.**
 > Paste each instruction block into Copilot Studio → New agent → Instructions field.
 > No coding required. Deploy in minutes.
 
 [![GitHub stars](https://img.shields.io/github/stars/kesslernity/awesome-copilot-studio-agents?style=flat-square)](https://github.com/kesslernity/awesome-copilot-studio-agents/stargazers)
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-> **94 production-ready agents across 17 domains and the Investment Banking & M&A industry pack.** See [AGENTS.md](AGENTS.md) for the complete library.
+> **103 production-ready agents across 17 domains and two industry packs: EPC & Energy and Investment Banking & M&A.** See [AGENTS.md](AGENTS.md) for the complete library.
 
 ---
 
@@ -36,7 +36,7 @@ Rolling it out across a team? There is no self-serve seat pack. Email mathieu@ke
 
 ## The Craft Behind These Agents
 
-Every one of the 94 agents in this library lives inside the same 8,000-character limit and the same failure modes. When your own instruction block drifts, runs long, or won't hold its output format, the fix is a pattern rather than more instructions.
+Every one of the 103 agents in this library lives inside the same 8,000-character limit and the same failure modes. When your own instruction block drifts, runs long, or won't hold its output format, the fix is a pattern rather than more instructions.
 
 **[Agent Instruction Block Design Guide](https://www.kesslernity.com/products/agent-instruction-block-design-guide?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md)** ($19): 12 design patterns with before/after rewrites, the 8 named ways instruction blocks break, the 8,000-character constraint solved, a reusable scaffold, 5 full worked rewrites, and a 10-question deployment test. Covers Agent Builder vs Copilot Studio and every field limit.
 
@@ -82,6 +82,7 @@ Every agent in this library:
 | 04 | [**Professional Translator EN↔FR**](agents/writing-communication/professional-translator-en-fr.md) | Accurate English to French translation | All Staff | None | `@Professional Translator ...` |
 | 40 | [**Executive Briefing Builder**](agents/writing-communication/executive-briefing-builder.md) | Compress long reports or email threads into a one-page C-suite brief | Leadership / Chiefs of Staff / EAs | None | `@Executive Briefing ...` |
 | 41 | [**Tone Calibrator**](agents/writing-communication/tone-calibrator.md) | Adjust the register of any text to match a specified audience | All Staff | None | `@Tone Calibrator ...` |
+| 99 | [**Brand Voice Enforcer**](agents/writing-communication/brand-voice-enforcer.md) | Check content against a defined brand voice guide, every deviation cited to the rule, with a corrected version | Comms / Marketing / Content Teams | None | `@Brand Voice Enforcer ...` |
 
 ### Project Management
 
@@ -139,6 +140,7 @@ Every agent in this library:
 | 58 | [**Security Risk Communicator**](agents/it-ops/security-risk-communicator.md) | Translate technical security findings into plain-language risk summaries | CISOs / Security Teams / Risk Committees | None | `@Security Risk Communicator ...` |
 | 72 | [**Change-Incident Correlator**](agents/it-ops/change-incident-correlator.md) | Identify incidents likely caused by recent changes using temporal and semantic matching | IT / ITSM / Change Management | None | `@Change-Incident Correlator ...` |
 | 73 | [**Problem Pattern Detector**](agents/it-ops/problem-pattern-detector.md) | Find recurring incident patterns for Problem Management, CI-agnostic, with request filtering | IT / ITSM / Problem Management | None | `@Problem Pattern Detector ...` |
+| 98 | [**IT Self-Service Agent**](agents/it-ops/it-self-service-agent.md) | First-line IT support: resolution steps, policy answers, and pre-filled helpdesk escalations | All Staff | None | `@IT Self-Service ...` |
 
 ### Customer Success
 
@@ -146,6 +148,7 @@ Every agent in this library:
 |---|-------|-------------|----------|-----------|--------|
 | 20 | [**Escalation Handler**](agents/customer-success/escalation-handler.md) | Manage customer escalations with structured internal and external comms | CS / Account Managers | None | `@Escalation Handler ...` |
 | 21 | [**Customer Response Writer**](agents/customer-success/customer-response-writer.md) | Write professional responses to customer queries and complaints | CS / Support | None | `@Customer Response Writer ...` |
+| 97 | [**Customer Onboarding Agent**](agents/customer-success/customer-onboarding-agent.md) | Build onboarding plans, welcome comms, milestone check-ins and handover summaries (no live CRM access) | CS / Account Managers / Implementation | None | `@Customer Onboarding ...` |
 
 ### Sales & Business Development
 
@@ -200,6 +203,8 @@ Every agent in this library:
 | 69 | [**Contract Language Simplifier**](agents/commercial-legal/contract-language-simplifier.md) | Rewrite dense contractual clauses into plain language | All Staff / Business Managers | None | `@Contract Simplifier ...` |
 | 70 | [**Policy Summariser**](agents/commercial-legal/policy-summariser.md) | Convert long policy documents into what you must do, what is prohibited | HR / Compliance / All Staff | None | `@Policy Summariser ...` |
 | 71 | [**Incident Communication Drafter**](agents/commercial-legal/incident-communication-drafter.md) | Draft staff, client, and press communications for incidents and crises | Communications / Legal / Senior Leadership | None | `@Incident Comms Drafter ...` |
+| 95 | [**Document Validation Agent**](agents/commercial-legal/document-validation-agent.md) | Check a document against a supplied policy or standard, findings by severity with corrective actions | Compliance / Quality / Legal | None | `@Document Validation ...` |
+| 96 | [**Procurement / Vendor Assessment Agent**](agents/commercial-legal/procurement-vendor-assessment-agent.md) | Score vendor proposals against supplied criteria into a comparison matrix and risk summary (decides nothing) | Procurement / Commercial / Evaluation Panels | None | `@Vendor Assessment ...` |
 
 ### Data & Analytics
 
@@ -254,7 +259,14 @@ Every agent in this library:
 
 ### EPC & Energy
 
-A complete 13-agent suite built for Engineering, Procurement, and Construction projects in the energy sector. Includes EPC-specific terminology, bilingual EN/FR support, and HSE safety guardrails.
+**4 agents, available now.** A project-team suite for Engineering, Procurement, and Construction projects in the energy sector: prompt coaching that fixes the missing-source failure, status reports written by phase, risk registers with the categories generic tools omit, and document review that lists every open HOLD. EPC acronyms preserved in EN and FR, and the HSE fence throughout: no permit, no sign-off, no classification, and a risk register that never passes for a HAZOP or a JSA.
+
+| # | Agent | Description | Audience | Knowledge | Invoke |
+|---|-------|-------------|----------|-----------|--------|
+| 100 | [**EPC Prompt Coach**](agents/industry/epc-energy/epc-prompt-coach.md) | Write and repair Copilot prompts for EPC work, and diagnose the missing-source failure behind most complaints | All Project Staff | None | `@EPC Prompt Coach ...` |
+| 101 | [**EPC Status Reporter**](agents/industry/epc-energy/epc-status-reporter.md) | Status reports by phase: deliverables through IFR/IFA/IFC, PO and vendor documents, installed quantities vs MTO, systems handed over | PMs / Project Controls / Leadership | Optional: project SharePoint | `@EPC Status Reporter ...` |
+| 102 | [**EPC Risk Register**](agents/industry/epc-energy/epc-risk-register.md) | Build, score and review registers on a 5x5 matrix with interface, vendor, permitting, logistics and marine categories (never a safety study) | PMs / Project Controls / Package Engineers | None | `@EPC Risk Register ...` |
+| 103 | [**EPC Document Reviewer**](agents/industry/epc-energy/epc-document-reviewer.md) | Comment sheet against eight criteria: every open HOLD listed, tag and unit consistency, revision status vs content maturity | Engineers / Document Control / PMs | None | `@EPC Document Reviewer ...` |
 
 [**View the EPC & Energy Agent Pack →**](agents/industry/epc-energy/README.md)
 
@@ -287,7 +299,7 @@ A complete 13-agent suite built for Engineering, Procurement, and Construction p
 
 ## Full Library
 
-The library contains 94 agents across 17 domains and the Investment Banking & M&A industry pack. See [AGENTS.md](AGENTS.md) for the complete index with links to every agent.
+The library contains 103 agents across 17 domains and two industry packs, EPC & Energy and Investment Banking & M&A. See [AGENTS.md](AGENTS.md) for the complete index with links to every agent.
 
 ---
 
@@ -346,7 +358,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and [AUTHORING-CHECKLIST.md](AUTHORING-CH
 
 ## Quick Links
 
-- **[Agent Library](AGENTS.md)**: complete index of all 94 agents with links
+- **[Agent Library](AGENTS.md)**: complete index of all 103 agents with links
 - **[Authoring Checklist](AUTHORING-CHECKLIST.md)**: standards for contributing agents
 - **[Contributing Guide](CONTRIBUTING.md)**: submission process
 - **[AI at Work Newsletter](https://newsletter.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md_ql)**: biweekly GenAI briefing
