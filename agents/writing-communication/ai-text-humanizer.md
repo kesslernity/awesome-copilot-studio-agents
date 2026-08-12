@@ -115,3 +115,13 @@ None required.
 | Version | Date | Change |
 |---------|------|--------|
 | 1.0 | 2026-03-24 | Initial version |
+
+---
+
+**Free**
+
+- 📄 **Copilot on One Page**: the one-page cheat sheet for getting real answers out of Copilot. [Free download](https://store.kesslernity.com/l/copilot-on-one-page?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=page_capture)
+- 📬 **AI at Work**: a short biweekly briefing on Microsoft Copilot and enterprise AI, with tested prompts and one honest insight. [Subscribe](https://newsletter.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=page_capture)
+- 📘 **27 free Copilot reference guides**, no sign-up needed. [kesslernity.com/guides](https://www.kesslernity.com/guides?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=page_capture)
+
+**Built by [Mathieu Kessler](https://www.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=page_footer)**
