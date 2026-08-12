@@ -30,6 +30,8 @@ The **[M365 Copilot Deployment Kit](https://www.kesslernity.com/kit?utm_source=g
 
 **[See what is in the kit →](https://www.kesslernity.com/kit?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md)**
 
+Rolling it out across a team? There is no self-serve seat pack. Email mathieu@kesslernity.com with the headcount and it comes back as one quote and one invoice, with a bank transfer option if procurement prefers that to a card.
+
 ---
 
 ## The Craft Behind These Agents
