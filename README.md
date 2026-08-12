@@ -17,12 +17,6 @@ Tested prompts for Microsoft 365 Copilot. One role at a time. Plus verified GenA
 
 **[Subscribe free →](https://newsletter.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=hero)**: no spam, no fluff, unsubscribe anytime.
 
-## The Prompt Pantry: Weekly from NerdyChefs.ai
-
-The site gives you the prompts. The newsletter gives you the judgment: when to use them, how to sequence them, and why one approach works where another fails. Weekly. Free. Always.
-
-**[Subscribe free →](https://pantry.nerdychefs.ai)**
-
 ## Free AI Course
 
 Want to go beyond agents? **AI Quick Start Essentials** is a free 35-minute course covering responsible AI use and practical human+AI collaboration workflows.
@@ -318,9 +312,9 @@ The library contains 94 agents across 17 domains and the Investment Banking & M&
 
 [**Kesslernity →**](https://www.kesslernity.com/store?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=related): deployment tools for M365 Copilot teams. Frameworks, agent templates and decision guides you own outright, with no platform to log into and no consultant in the loop.
 
-**More free AI prompts and tools?**
+**More free Copilot reference?**
 
-[**NerdyChefs.ai →**](https://nerdychefs.ai): 1,600+ free AI prompts across 73 packs, no signup required.
+[**M365 Copilot Field Guide →**](https://www.kesslernity.com/guides?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=related): 27 reference guides, a decision map and a failure triage table. Browser-readable, print-ready, no account required.
 
 ---
 
@@ -328,7 +322,7 @@ The library contains 94 agents across 17 domains and the Investment Banking & M&
 
 - **Star this repo** to get notified when new agents are added
 - **Watch releases** for new domain packs and major additions
-- **Follow on X:** [@nerdychefsai](https://x.com/nerdychefsai): Copilot tips and enterprise AI insights
+- **Follow on X:** [@kesslernity](https://x.com/kesslernity): Copilot tips and enterprise AI insights
 - **Follow on LinkedIn:** [Mathieu Kessler](https://linkedin.com/in/mathieukessler): enterprise AI deployment and agent design
 
 ---
@@ -353,7 +347,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and [AUTHORING-CHECKLIST.md](AUTHORING-CH
 - **[AI at Work Newsletter](https://newsletter.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=quicklinks)**: biweekly GenAI briefing
 - **[Free AI Course](https://trainings.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=quicklinks)**: AI Quick Start Essentials (35 min, free)
 - **[365 Copilot Prompts](https://github.com/kesslernity/awesome-microsoft-copilot-prompts)**: the companion prompts repository
-- **[NerdyChefs.ai](https://nerdychefs.ai)**: 1,600+ free AI prompts
+- **[Free Copilot Guides](https://www.kesslernity.com/guides?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=quicklinks)**: 27 reference guides, no account required
 - **[Kesslernity Store](https://www.kesslernity.com/store?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=quicklinks)**: deployment tools for M365 Copilot teams
 - **[License](https://creativecommons.org/licenses/by-sa/4.0/)**: CC BY-SA 4.0
 
