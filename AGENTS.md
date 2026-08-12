@@ -11,15 +11,15 @@
 
 ---
 
-## AI at Work — Newsletter
+## AI at Work Newsletter
 
 Tested prompts for Microsoft 365 Copilot. One role at a time. Plus verified GenAI news and one insight you won't find in a changelog. Biweekly, 4-minute read.
 
 **[Subscribe free →](https://newsletter.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md)**: no spam, no fluff, unsubscribe anytime.
 
-## The Prompt Pantry — Weekly from NerdyChefs.ai
+## The Prompt Pantry: Weekly from NerdyChefs.ai
 
-The site gives you the prompts. The newsletter gives you the judgment — when to use them, how to sequence them, and why one approach works where another fails. Weekly. Free. Always.
+The site gives you the prompts. The newsletter gives you the judgment: when to use them, how to sequence them, and why one approach works where another fails. Weekly. Free. Always.
 
 **[Subscribe free →](https://pantry.nerdychefs.ai)**
 
@@ -53,9 +53,9 @@ Every one of the 94 agents in this library lives inside the same 8,000-character
 A curated library of instruction sets for [Microsoft 365 Copilot declarative agents](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/overview-declarative-agent). Each agent is a paste-ready instruction block, ready to deploy without configuration files, coding, or Azure resources.
 
 Every agent in this library:
-- Requires a Microsoft 365 Copilot licence (the paid add-on — not included in standard M365 plans)
+- Requires a Microsoft 365 Copilot licence (the paid add-on, not included in standard M365 plans)
 - Defaults to formal professional English (British spelling)
-- Supports French output — write in French or ask for French output explicitly
+- Supports French output: write in French or ask for French output explicitly
 - Includes a banned vocabulary list to prevent AI-sounding language
 - Includes a built-in quality self-check the agent runs before every response
 - Stays within the 8,000-character Copilot Studio instruction limit
@@ -64,11 +64,11 @@ Every agent in this library:
 
 ## How to Deploy Any Agent
 
-1. Go to [m365.cloud.microsoft/chat/agent/new](https://m365.cloud.microsoft/chat/agent/new) — no separate tool needed, it's built into Microsoft 365 Copilot.
+1. Go to [m365.cloud.microsoft/chat/agent/new](https://m365.cloud.microsoft/chat/agent/new): no separate tool needed, it's built into Microsoft 365 Copilot.
 2. Enter the **Name** and **Description** from the agent file's frontmatter.
 3. In the **Instructions** field, paste the full block from the `## Instructions` section of the relevant file.
 4. Add knowledge sources (SharePoint sites) where noted.
-5. Click **Create** — the agent is immediately available to `@mention` in Copilot Chat.
+5. Click **Create**: the agent is immediately available to `@mention` in Copilot Chat.
 
 > You can also create agents via [Copilot Studio](https://copilotstudio.microsoft.com) for advanced configuration (additional knowledge sources, actions, authentication). For instruction-only agents in this library, the built-in Agent Builder is sufficient.
 
@@ -83,7 +83,7 @@ Every agent in this library:
 | 01 | [**Enterprise Writer**](agents/writing-communication/enterprise-writer.md) | Draft and polish professional communications | All Staff | None | `@Enterprise Writer ...` |
 | 02 | [**AI Text Humanizer**](agents/writing-communication/ai-text-humanizer.md) | Remove AI writing patterns from any text | All Staff | None | `@AI Text Humanizer ...` |
 | 03 | [**Meeting Scribe**](agents/writing-communication/meeting-scribe.md) | Turn meeting notes into structured records | All Staff | None | `@Meeting Scribe ...` |
-| 04 | [**Professional Translator EN↔FR**](agents/writing-communication/professional-translator-en-fr.md) | Accurate English–French translation | All Staff | None | `@Professional Translator ...` |
+| 04 | [**Professional Translator EN↔FR**](agents/writing-communication/professional-translator-en-fr.md) | Accurate English to French translation | All Staff | None | `@Professional Translator ...` |
 | 40 | [**Executive Briefing Builder**](agents/writing-communication/executive-briefing-builder.md) | Compress long reports or email threads into a one-page C-suite brief | Leadership / Chiefs of Staff / EAs | None | `@Executive Briefing ...` |
 | 41 | [**Tone Calibrator**](agents/writing-communication/tone-calibrator.md) | Adjust the register of any text to match a specified audience | All Staff | None | `@Tone Calibrator ...` |
 
@@ -142,7 +142,7 @@ Every agent in this library:
 | 57 | [**Runbook Writer**](agents/it-ops/runbook-writer.md) | Convert bullet-point procedures into structured runbooks | IT Ops / DevOps / Platform Engineers | None | `@Runbook Writer ...` |
 | 58 | [**Security Risk Communicator**](agents/it-ops/security-risk-communicator.md) | Translate technical security findings into plain-language risk summaries | CISOs / Security Teams / Risk Committees | None | `@Security Risk Communicator ...` |
 | 72 | [**Change-Incident Correlator**](agents/it-ops/change-incident-correlator.md) | Identify incidents likely caused by recent changes using temporal and semantic matching | IT / ITSM / Change Management | None | `@Change-Incident Correlator ...` |
-| 73 | [**Problem Pattern Detector**](agents/it-ops/problem-pattern-detector.md) | Find recurring incident patterns for Problem Management — CI-agnostic, with request filtering | IT / ITSM / Problem Management | None | `@Problem Pattern Detector ...` |
+| 73 | [**Problem Pattern Detector**](agents/it-ops/problem-pattern-detector.md) | Find recurring incident patterns for Problem Management, CI-agnostic, with request filtering | IT / ITSM / Problem Management | None | `@Problem Pattern Detector ...` |
 
 ### Customer Success
 
@@ -248,9 +248,9 @@ Every agent in this library:
 | # | Agent | Description | Audience | Knowledge | Invoke |
 |---|-------|-------------|----------|-----------|--------|
 | 59 | [**SharePoint Knowledge Agent**](agents/advanced/sharepoint-knowledge-agent.md) | Answer questions grounded in a connected SharePoint site with source citations | All Staff | Required: SharePoint via Graph API | `@SharePoint Knowledge ...` |
-| 60 | [**Email Triage Assistant**](agents/advanced/email-triage-assistant.md) | Classify, summarise, and draft responses to unread emails — never sends without confirmation | Senior Leaders / EAs / Chiefs of Staff | Required: Outlook via Graph API | `@Email Triage ...` |
+| 60 | [**Email Triage Assistant**](agents/advanced/email-triage-assistant.md) | Classify, summarise, and draft responses to unread emails, never sends without confirmation | Senior Leaders / EAs / Chiefs of Staff | Required: Outlook via Graph API | `@Email Triage ...` |
 | 61 | [**Meeting Intelligence Agent**](agents/advanced/meeting-intelligence-agent.md) | Produce structured records from Teams meeting transcripts | PMs / Team Leads / All Staff | Required: Teams transcripts via Graph API | `@Meeting Intelligence ...` |
-| 62 | [**Cross-Agent Orchestrator**](agents/advanced/cross-agent-orchestrator.md) | Route user requests to the correct specialist agent — single entry point for the library | All Staff | All agents deployed | `@Copilot Assistant ...` |
+| 62 | [**Cross-Agent Orchestrator**](agents/advanced/cross-agent-orchestrator.md) | Route user requests to the correct specialist agent, single entry point for the library | All Staff | All agents deployed | `@Copilot Assistant ...` |
 
 ---
 
@@ -264,7 +264,7 @@ A complete 13-agent suite built for Engineering, Procurement, and Construction p
 
 ### Investment Banking & M&A
 
-**5 agents, available now** — a deal-team suite for transaction structuring and diligence: requirements checklists cited to internal policy, CIM extraction with confidence grades, term sheet deviation reports, data-room provision sweeps with honest coverage reports, and a precedent library interface. Banking guardrails throughout: every agent retrieves and cites, none approves, prices, or advises. AI prepares, committees decide.
+**5 agents, available now.** A deal-team suite for transaction structuring and diligence: requirements checklists cited to internal policy, CIM extraction with confidence grades, term sheet deviation reports, data-room provision sweeps with honest coverage reports, and a precedent library interface. Banking guardrails throughout: every agent retrieves and cites, none approves, prices, or advises. AI prepares, committees decide.
 
 | # | Agent | Description | Audience | Knowledge | Invoke |
 |---|-------|-------------|----------|-----------|--------|
@@ -282,7 +282,7 @@ A complete 13-agent suite built for Engineering, Procurement, and Construction p
 ## Notes
 
 - All agents default to formal professional English with British spelling.
-- All agents support French output — write in French or include "in French" in your request.
+- All agents support French output: write in French or include "in French" in your request.
 - Agents marked **Required knowledge source** will not answer outside that source. Connect the SharePoint site before publishing.
 - The AI-assistance disclaimer present in several agents (meeting records, status reports) must be reviewed by the document owner before official distribution.
 - Agent instructions are sized to stay within the 8,000-character Copilot Studio instruction limit.
@@ -311,11 +311,11 @@ Start free with the [Licence-Plate Test](https://store.kesslernity.com/l/licence
 
 **Using Microsoft 365 Copilot prompts rather than agents?**
 
-[**Awesome Microsoft Copilot Prompts →**](https://github.com/kesslernity/awesome-microsoft-copilot-prompts) — 573 production-tested M365 Copilot prompts across 20 role-specific collections. No Copilot Studio required — paste directly into Copilot Chat, Outlook, Teams, or Word.
+[**Awesome Microsoft Copilot Prompts →**](https://github.com/kesslernity/awesome-microsoft-copilot-prompts): 573 production-tested M365 Copilot prompts across 20 role-specific collections. No Copilot Studio required: paste directly into Copilot Chat, Outlook, Teams, or Word.
 
 **Running automated recurring briefings without building an agent?**
 
-[**Scheduled Prompts →**](https://github.com/kesslernity/awesome-microsoft-copilot-prompts/tree/main/prompts/scheduled-prompts) — 15 prompts designed to run automatically on a recurring schedule. Daily email briefings, weekly pipeline reviews, and Friday team summaries that run without you. Set up in 2 minutes via the clock icon in Copilot Chat. Requires M365 Copilot paid licence. GA since January 2026.
+[**Scheduled Prompts →**](https://github.com/kesslernity/awesome-microsoft-copilot-prompts/tree/main/prompts/scheduled-prompts): 15 prompts designed to run automatically on a recurring schedule. Daily email briefings, weekly pipeline reviews, and Friday team summaries that run without you. Set up in 2 minutes via the clock icon in Copilot Chat. Requires M365 Copilot paid licence. GA since January 2026.
 
 **Deploying Copilot across a team?**
 
@@ -323,7 +323,7 @@ Start free with the [Licence-Plate Test](https://store.kesslernity.com/l/licence
 
 **More free AI prompts and tools?**
 
-[**NerdyChefs.ai →**](https://nerdychefs.ai) — 1,600+ free AI prompts across 73 packs, no signup required.
+[**NerdyChefs.ai →**](https://nerdychefs.ai): 1,600+ free AI prompts across 73 packs, no signup required.
 
 ---
 
@@ -331,35 +331,35 @@ Start free with the [Licence-Plate Test](https://store.kesslernity.com/l/licence
 
 - **Star this repo** to get notified when new agents are added
 - **Watch releases** for new domain packs and major additions
-- **Follow on X:** [@nerdychefsai](https://x.com/nerdychefsai) — Copilot tips and enterprise AI insights
-- **Follow on LinkedIn:** [Mathieu Kessler](https://linkedin.com/in/mathieukessler) — enterprise AI deployment and agent design
+- **Follow on X:** [@nerdychefsai](https://x.com/nerdychefsai): Copilot tips and enterprise AI insights
+- **Follow on LinkedIn:** [Mathieu Kessler](https://linkedin.com/in/mathieukessler): enterprise AI deployment and agent design
 
 ---
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) and [AUTHORING-CHECKLIST.md](AUTHORING-CHECKLIST.md). All contributions welcome — new agents, improvements to existing instructions, and translations.
+See [CONTRIBUTING.md](CONTRIBUTING.md) and [AUTHORING-CHECKLIST.md](AUTHORING-CHECKLIST.md). All contributions welcome: new agents, improvements to existing instructions, and translations.
 
 ---
 
 ## License
 
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — free to use, adapt, and distribute with attribution.
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/): free to use, adapt, and distribute with attribution.
 
 ---
 
 ## Quick Links
 
-- **[Agent Library](AGENTS.md)** — complete index of all 94 agents with links
-- **[Authoring Checklist](AUTHORING-CHECKLIST.md)** — standards for contributing agents
-- **[Contributing Guide](CONTRIBUTING.md)** — submission process
+- **[Agent Library](AGENTS.md)**: complete index of all 94 agents with links
+- **[Authoring Checklist](AUTHORING-CHECKLIST.md)**: standards for contributing agents
+- **[Contributing Guide](CONTRIBUTING.md)**: submission process
 - **[AI at Work Newsletter](https://newsletter.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md_ql)**: biweekly GenAI briefing
 - **[Free AI Course](https://trainings.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md_ql)**: AI Quick Start Essentials (35 min, free)
-- **[365 Copilot Prompts](https://github.com/kesslernity/awesome-microsoft-copilot-prompts)** — the companion prompts repository
-- **[NerdyChefs.ai](https://nerdychefs.ai)** — 1,600+ free AI prompts
+- **[365 Copilot Prompts](https://github.com/kesslernity/awesome-microsoft-copilot-prompts)**: the companion prompts repository
+- **[NerdyChefs.ai](https://nerdychefs.ai)**: 1,600+ free AI prompts
 - **[Kesslernity Store](https://www.kesslernity.com/store?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md_ql)**: deployment tools for M365 Copilot teams
-- **[License](https://creativecommons.org/licenses/by-sa/4.0/)** — CC BY-SA 4.0
+- **[License](https://creativecommons.org/licenses/by-sa/4.0/)**: CC BY-SA 4.0
 
 ---
 
-*awesome-copilot-studio-agents — v2.0 — 2026*
+*awesome-copilot-studio-agents · v2.0 · 2026*
