@@ -26,7 +26,7 @@ Want to go beyond agents? **AI Quick Start Essentials** is a free 35-minute cour
 
 ## Deploying Copilot for your org?
 
-The **[M365 Copilot Deployment Kit](https://www.kesslernity.com/kit?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md)** covers the full picture: IT prerequisites, governance before you publish, a 90-day rollout roadmap, 26 field guides, and 10 agent templates with practitioner notes on when to build each and what breaks in week one.
+The **[M365 Copilot Deployment Kit](https://www.kesslernity.com/kit?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md)** covers the full picture: IT prerequisites, governance before you publish, a 90-day rollout roadmap, 28 field guides, and 10 agent templates with practitioner notes on when to build each and what breaks in week one.
 
 **[See what is in the kit →](https://www.kesslernity.com/kit?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md)**
 
@@ -315,7 +315,7 @@ Start free with the [Licence-Plate Test](https://store.kesslernity.com/l/licence
 
 **Want the full M365 Copilot deployment package?**
 
-[**M365 Copilot Deployment Kit →**](https://www.kesslernity.com/kit?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md): 26 field guides, 90-day rollout roadmap, governance checklist, 10 production-ready agent templates with practitioner notes, and an ROI conversation template. Built for IT admins and Copilot champions doing a real deployment.
+[**M365 Copilot Deployment Kit →**](https://www.kesslernity.com/kit?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md): 28 field guides, 90-day rollout roadmap, governance checklist, 10 production-ready agent templates with practitioner notes, and an ROI conversation template. Built for IT admins and Copilot champions doing a real deployment.
 
 **Using Microsoft 365 Copilot prompts rather than agents?**
 

@@ -57,7 +57,7 @@ Every agent in this library:
 
 These agents are the build layer. A rollout also needs the IT prerequisites checked, a governance decision taken before anything is published, a sequence that survives week one, and something to put in front of the person holding the budget.
 
-The **[M365 Copilot Deployment Kit](https://www.kesslernity.com/kit?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=readme)** covers that full picture: 26 field guides, a 90-day rollout roadmap, a governance checklist, 10 agent templates with practitioner notes on when to build each and what breaks in week one, and an ROI conversation template.
+The **[M365 Copilot Deployment Kit](https://www.kesslernity.com/kit?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=readme)** covers that full picture: 28 field guides, a 90-day rollout roadmap, a governance checklist, 10 agent templates with practitioner notes on when to build each and what breaks in week one, and an ROI conversation template.
 
 **[See what is in the kit →](https://www.kesslernity.com/kit?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=readme)**
 
