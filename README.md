@@ -71,7 +71,7 @@ Every agent here lives inside the same 8,000-character limit and the same failur
 
 > Deciding *whether* an agent is even the right tool? **[When Not to Use AI](https://www.kesslernity.com/products/when-not-to-use-ai?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=readme)** ($29): the pre-flight check before you build. Or **[get both for $39](https://www.kesslernity.com/products/from-decision-to-deployment?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=readme)**.
 
-Rather start free? **[Copilot on One Page](https://store.kesslernity.com/l/copilot-on-one-page?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=readme)** is the one-page cheat sheet for getting real answers out of Copilot. Print it, pin it, come back for the agents.
+**Start here, free:** [Copilot on One Page](https://store.kesslernity.com/l/copilot-on-one-page?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=hero) is the four-step loop these agents automate. Worth reading before you hand any of it to an agent that runs unattended.
 
 ---
 
@@ -289,6 +289,15 @@ Rather start free? **[Copilot on One Page](https://store.kesslernity.com/l/copil
 
 [**View the Investment Banking & M&A Pack →**](agents/industry/investment-banking/README.md)
 
+
+---
+
+### Before you ship an agent to other people
+
+Copying an agent that works is easy. Writing the instruction block so it keeps working when
+somebody asks it something you did not anticipate is the part that takes the time.
+
+[The Agent Instruction Block Design Guide](https://store.kesslernity.com/l/eyeauo?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=instruction_block_a) is twelve patterns for that. $19, one-time.
 
 ---
 
