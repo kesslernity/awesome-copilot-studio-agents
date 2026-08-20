@@ -370,4 +370,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and [AUTHORING-CHECKLIST.md](AUTHORING-CH
 
 ---
 
+Everything above tells you how these agents are structured. What it does not tell you is which
+instruction patterns hold up once a real user goes off-script.
+
+[The Agent Instruction Block Design Guide](https://store.kesslernity.com/l/eyeauo?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md_a) is twelve of those patterns, with the failure each one prevents. $19, one-time.
+
+---
+
 *awesome-copilot-studio-agents · v2.0 · 2026*
