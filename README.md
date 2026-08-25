@@ -347,6 +347,7 @@ The library contains 103 agents across 17 domains and two industry packs, EPC & 
 - **Watch releases** for new domain packs and major additions
 - **Follow on X:** [@kesslernity](https://x.com/kesslernity): Copilot tips and enterprise AI insights
 - **Follow on LinkedIn:** [Mathieu Kessler](https://linkedin.com/in/mathieukessler): enterprise AI deployment and agent design
+- **Subscribe on YouTube:** [@Kesslernity](https://www.youtube.com/@Kesslernity?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=stay_updated): Copilot walkthroughs and agent builds
 
 ---
 
@@ -371,6 +372,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and [AUTHORING-CHECKLIST.md](AUTHORING-CH
 - **[Free AI Course](https://trainings.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=quicklinks)**: AI Quick Start Essentials (35 min, free)
 - **[365 Copilot Prompts](https://github.com/kesslernity/awesome-microsoft-copilot-prompts)**: the companion prompts repository
 - **[Free Copilot Guides](https://www.kesslernity.com/guides?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=quicklinks)**: 27 reference guides, no account required
+- **[YouTube](https://www.youtube.com/@Kesslernity?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=quicklinks)**: Copilot walkthroughs and agent builds
 - **[Kesslernity Store](https://www.kesslernity.com/store?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=quicklinks)**: deployment tools for M365 Copilot teams
 - **[License](https://creativecommons.org/licenses/by-sa/4.0/)**: CC BY-SA 4.0
 
