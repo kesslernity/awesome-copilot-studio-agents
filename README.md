@@ -167,6 +167,7 @@ Every agent here lives inside the same 8,000-character limit and the same failur
 | 25 | [**Pipeline Review Preparer**](agents/sales/pipeline-review-preparer.md) | Convert CRM data into structured pipeline reviews with health RAG and coverage ratios | Sales Leaders / Revenue Ops | None | `@Pipeline Review ...` |
 | 26 | [**Partnership Proposal Writer**](agents/sales/partnership-proposal-writer.md) | Draft partnership and commercial alliance proposals | BD / Strategy / Leadership | None | `@Partnership Proposal ...` |
 | 27 | [**Customer Case Study Writer**](agents/sales/customer-case-study-writer.md) | Write customer success stories in full, one-pager, and social formats | Marketing / Sales / CS | None | `@Case Study Writer ...` |
+| [NotFair](https://notfair.co) | Google Ads MCP server for AI agents. Diagnose campaigns, recommend optimizations, execute approved changes via the Google Ads API. |
 
 ### Strategy & Executive
 
