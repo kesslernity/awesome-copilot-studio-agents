@@ -325,7 +325,7 @@ The library contains 103 agents across 17 domains and two industry packs, EPC & 
 
 **Using Microsoft 365 Copilot prompts rather than agents?**
 
-[**Awesome Microsoft Copilot Prompts →**](https://github.com/kesslernity/awesome-microsoft-copilot-prompts): 573 production-tested M365 Copilot prompts across 20 role-specific collections. No Copilot Studio required: paste directly into Copilot Chat, Outlook, Teams, or Word.
+[**Awesome Microsoft Copilot Prompts →**](https://github.com/kesslernity/awesome-microsoft-copilot-prompts): 573 curated M365 Copilot prompts across 20 role-specific collections. No Copilot Studio required: paste directly into Copilot Chat, Outlook, Teams, or Word.
 
 **Running automated recurring briefings without building an agent?**
 
