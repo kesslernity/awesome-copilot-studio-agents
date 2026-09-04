@@ -71,7 +71,7 @@ Every agent here lives inside the same 8,000-character limit and the same failur
 
 > Deciding *whether* an agent is even the right tool? **[When Not to Use AI](https://www.kesslernity.com/products/when-not-to-use-ai?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=readme)** ($29): the pre-flight check before you build. Or **[get both for $39](https://www.kesslernity.com/products/from-decision-to-deployment?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=readme)**.
 
-**Start here, free:** [Copilot on One Page](https://store.kesslernity.com/l/copilot-on-one-page?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=hero) is the four-step loop these agents automate. Worth reading before you hand any of it to an agent that runs unattended.
+**Start here, free:** [Copilot on One Page](https://www.kesslernity.com/copilot-on-one-page?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=hero) is the four-step loop these agents automate. Worth reading before you hand any of it to an agent that runs unattended.
 
 ---
 
