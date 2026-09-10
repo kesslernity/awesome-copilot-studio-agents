@@ -71,7 +71,7 @@ Every agent here lives inside the same 8,000-character limit and the same failur
 
 > Deciding *whether* an agent is even the right tool? **[When Not to Use AI](https://www.kesslernity.com/products/when-not-to-use-ai?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=readme)** ($29): the pre-flight check before you build. Or **[get both for $39](https://www.kesslernity.com/products/from-decision-to-deployment?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=readme)**.
 
-**Start here, free:** [Copilot on One Page](https://www.kesslernity.com/copilot-on-one-page?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=hero) is the four-step loop these agents automate. Worth reading before you hand any of it to an agent that runs unattended.
+**Start here, free:** [Copilot on One Page](https://www.kesslernity.com/copilot-on-one-page?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=hero) is the four-step loop these agents automate. Worth reading before you hand any of it to an agent that runs unattended. Deploying, not just prompting? The [Day-0 Readiness Gate](https://www.kesslernity.com/copilot-day0-readiness?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=day0) is the eight-check gate to pass first, free.
 
 ---
 
@@ -298,6 +298,8 @@ Copying an agent that works is easy. Writing the instruction block so it keeps w
 somebody asks it something you did not anticipate is the part that takes the time.
 
 [The Agent Instruction Block Design Guide](https://store.kesslernity.com/l/eyeauo?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=instruction_block_a) is twelve patterns for that. $19, one-time.
+
+Rolling Copilot out across an organisation rather than building one agent? [The Copilot Rollout Bundle](https://store.kesslernity.com/l/copilot-rollout-bundle?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=rollout_bundle) has the Deployment Kit, The Real Cost of Copilot and the Honest Kit together for $134 instead of $165.
 
 ---
 
