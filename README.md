@@ -348,7 +348,6 @@ The library contains 103 agents across 17 domains and two industry packs, EPC & 
 - **Star this repo** to get notified when new agents are added
 - **Watch releases** for new domain packs and major additions
 - **Follow on X:** [@kesslernity](https://x.com/kesslernity): Copilot tips and enterprise AI insights
-- **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)**: Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 - **Follow on LinkedIn:** [Mathieu Kessler](https://linkedin.com/in/mathieukessler): enterprise AI deployment and agent design
 - **Subscribe on YouTube:** [@Kesslernity](https://www.youtube.com/@Kesslernity?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=stay_updated): Copilot walkthroughs and agent builds
 
@@ -382,3 +381,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and [AUTHORING-CHECKLIST.md](AUTHORING-CH
 ---
 
 *awesome-copilot-studio-agents · v2.0 · 2026*
+- **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)**: Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
