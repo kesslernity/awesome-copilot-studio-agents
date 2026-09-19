@@ -333,6 +333,10 @@ The library contains 103 agents across 17 domains and two industry packs, EPC & 
 
 [**Scheduled Prompts →**](https://github.com/kesslernity/awesome-microsoft-copilot-prompts/tree/main/prompts/scheduled-prompts): 15 prompts designed to run automatically on a recurring schedule. Daily email briefings, weekly pipeline reviews, and Friday team summaries that run without you. Set up in 2 minutes via the clock icon in Copilot Chat. Requires M365 Copilot paid licence. GA since January 2026.
 
+**Running Mistral rather than Copilot?**
+
+[**Awesome Mistral Vibe Agents →**](https://github.com/kesslernity/awesome-mistral-vibe-agents?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=mistral_lane): 17 agent profiles for the Mistral Vibe CLI, each one run through the loader before publication, because a broken profile is dropped in silence rather than reported. Beside it sit [137 skills](https://github.com/kesslernity/awesome-mistral-vibe-skills?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=mistral_lane) and [49 prompts](https://github.com/kesslernity/awesome-mistral-vibe-prompts?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=mistral_lane) for Vibe Work, scheduled tasks and Chat. Different runtime, same bar.
+
 **Deploying Copilot across a team?**
 
 [**Kesslernity →**](https://www.kesslernity.com/store?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=related): deployment tools for M365 Copilot teams. Frameworks, agent templates and decision guides you own outright, with no platform to log into and no consultant in the loop.
