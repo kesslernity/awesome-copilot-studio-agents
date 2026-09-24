@@ -346,6 +346,10 @@ The library contains 103 agents across 17 domains and two industry packs, EPC & 
 [**M365 Copilot Field Guide →**](https://www.kesslernity.com/guides?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=related): 28 reference guides, a decision map and a failure triage table. Browser-readable, print-ready, no account required.
 
 ---
+**Open-Source Agentic Factory?**
+
+[**Ivy Tendril →**](https://github.com/Ivy-Interactive/Ivy-Tendril): Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
+
 
 ## Stay Updated
 
