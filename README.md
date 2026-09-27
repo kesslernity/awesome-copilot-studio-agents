@@ -53,24 +53,6 @@ Every agent in this library:
 
 ---
 
-## Deploying Copilot across an org?
-
-These agents are the build layer. A rollout also needs the IT prerequisites checked, a governance decision taken before anything is published, a sequence that survives week one, and something to put in front of the person holding the budget.
-
-The **[M365 Copilot Deployment Kit](https://www.kesslernity.com/kit?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=readme)** covers that full picture: 28 field guides, a 90-day rollout roadmap, a governance checklist, 10 agent templates with practitioner notes on when to build each and what breaks in week one, and an ROI conversation template.
-
-**[See what is in the kit →](https://www.kesslernity.com/kit?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=readme)**
-
-Rolling it out across a team? There is no self-serve seat pack. Email mathieu@kesslernity.com with the headcount and it comes back as one quote and one invoice, with a bank transfer option if procurement prefers that to a card.
-
-### The craft behind these agents
-
-Every agent here lives inside the same 8,000-character limit and the same failure modes. When your own instruction block drifts, runs long, or will not hold its output format, the fix is a pattern rather than more instructions.
-
-**[Agent Instruction Block Design Guide](https://www.kesslernity.com/products/agent-instruction-block-design-guide?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=readme)** ($19): 12 design patterns with before and after rewrites, the 8 named ways instruction blocks break, the 8,000-character constraint solved, a reusable scaffold, 5 worked rewrites, and a 10-question deployment test.
-
-> Deciding *whether* an agent is even the right tool? **[When Not to Use AI](https://www.kesslernity.com/products/when-not-to-use-ai?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=readme)** ($29): the pre-flight check before you build. Or **[get both for $39](https://www.kesslernity.com/products/from-decision-to-deployment?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=readme)**.
-
 **Start here, free:** [Copilot on One Page](https://www.kesslernity.com/copilot-on-one-page?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=hero) is the four-step loop these agents automate. Worth reading before you hand any of it to an agent that runs unattended. Deploying, not just prompting? The [Day-0 Readiness Gate](https://www.kesslernity.com/copilot-day0-readiness?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=day0) is the eight-check gate to pass first, free.
 
 ---
@@ -292,14 +274,29 @@ Every agent here lives inside the same 8,000-character limit and the same failur
 
 ---
 
-### Before you ship an agent to other people
+### If you are the one rolling this out
 
-Copying an agent that works is easy. Writing the instruction block so it keeps working when
-somebody asks it something you did not anticipate is the part that takes the time.
+The companion [prompts library](https://github.com/kesslernity/awesome-microsoft-copilot-prompts) is the one Jared Spataro (Microsoft, AI at Work) called
+"an amazing library of more than 300 Copilot prompts for business teams" on
+[25 February 2026](https://jspataro.substack.com/p/when-ai-stops-assisting-and-starts). He was writing about that free library. He did not review these
+agents, and he did not review anything in this section. Both libraries are free and stay free.
 
-[The Agent Instruction Block Design Guide](https://store.kesslernity.com/l/eyeauo?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=instruction_block_a) is twelve patterns for that. $19, one-time.
+Copying an agent that works is easy. What takes the time is everything around it: writing the
+instruction block so it holds when somebody asks it something you did not anticipate, and deciding
+who gets a licence, what Copilot can already see, and what you say to the person who asks whether
+it read their private files.
 
-Rolling Copilot out across an organisation rather than building one agent? [The Copilot Rollout Bundle](https://store.kesslernity.com/l/copilot-rollout-bundle?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=rollout_bundle) has the Deployment Kit, The Real Cost of Copilot and the Honest Kit together for $134 instead of $165.
+- **[The Copilot Rollout Bundle, $134](https://store.kesslernity.com/l/copilot-rollout-bundle?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=paid_block_bundle)**, recommended if you are rolling Copilot out
+  across a tenant. The Deployment Kit, The Real Cost of Copilot and the Honest Kit together,
+  $134 instead of $165.
+- **[The M365 Copilot Deployment Kit, $97](https://store.kesslernity.com/l/kpfpi?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=paid_block_kit)** on its own: 28 field guides, a 90-day rollout
+  roadmap, 10 agent templates with notes on what breaks in week one, a governance checklist and the
+  ROI conversation for the budget meeting. One-time, no subscription, and the licence covers
+  internal use across your organisation rather than one seat.
+- **[From Decision to Deployment, $39](https://store.kesslernity.com/l/oocxx?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=paid_block_door)** if the question is still whether an
+  agent belongs here at all. Two short books, $39 rather than $48 apart: a 5-question pre-flight
+  check, a use-case scoring matrix and a 12-signal red-flag list, then 12 instruction-block
+  patterns, the 8 named ways those blocks break, and a scaffold that fits the 8,000-character cap.
 
 ---
 
@@ -336,10 +333,6 @@ The library contains 103 agents across 17 domains and two industry packs, EPC & 
 **Running Mistral rather than Copilot?**
 
 [**Awesome Mistral Vibe Agents →**](https://github.com/kesslernity/awesome-mistral-vibe-agents?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=mistral_lane): 17 agent profiles for the Mistral Vibe CLI, each one run through the loader before publication, because a broken profile is dropped in silence rather than reported. Beside it sit [137 skills](https://github.com/kesslernity/awesome-mistral-vibe-skills?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=mistral_lane) and [49 prompts](https://github.com/kesslernity/awesome-mistral-vibe-prompts?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=mistral_lane) for Vibe Work, scheduled tasks and Chat. Different runtime, same bar.
-
-**Deploying Copilot across a team?**
-
-[**Kesslernity →**](https://www.kesslernity.com/store?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=related): deployment tools for M365 Copilot teams. Frameworks, agent templates and decision guides you own outright, with no platform to log into and no consultant in the loop.
 
 **More free Copilot reference?**
 
@@ -379,7 +372,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and [AUTHORING-CHECKLIST.md](AUTHORING-CH
 - **[365 Copilot Prompts](https://github.com/kesslernity/awesome-microsoft-copilot-prompts)**: the companion prompts repository
 - **[Free Copilot Guides](https://www.kesslernity.com/guides?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=quicklinks)**: 28 reference guides, no account required
 - **[YouTube](https://www.youtube.com/@Kesslernity?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=quicklinks)**: Copilot walkthroughs and agent builds
-- **[Kesslernity Store](https://www.kesslernity.com/store?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=quicklinks)**: deployment tools for M365 Copilot teams
 - **[License](https://creativecommons.org/licenses/by-sa/4.0/)**: CC BY-SA 4.0
 
 ---
