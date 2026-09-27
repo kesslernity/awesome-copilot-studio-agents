@@ -1,6 +1,6 @@
 # Contributing to Awesome Copilot Studio Agents
 
-Contributions are welcome. New agents, improvements to existing instructions, bug fixes, and translations all help.
+This is a library of original agents written and tested for this repository, not a directory of links to other people's projects. Contributions are welcome on that basis: new agents, improvements to existing instructions, bug fixes, and translations all help. A pull request that adds a link to an external tool, list or product will be closed, however good the tool is.
 
 > **Full authoring standards:** See [AUTHORING-CHECKLIST.md](AUTHORING-CHECKLIST.md) for the complete checklist — file structure, frontmatter fields, instruction block requirements, RAI review, testing protocol, and the 10 most common authoring failures.
 
