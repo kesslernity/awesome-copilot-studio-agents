@@ -346,6 +346,7 @@ The library contains 103 agents across 17 domains and two industry packs, EPC & 
 - **Watch releases** for new domain packs and major additions
 - **Follow on X:** [@kesslernity](https://x.com/kesslernity): Copilot tips and enterprise AI insights
 - **Follow on LinkedIn:** [Mathieu Kessler](https://linkedin.com/in/mathieukessler): enterprise AI deployment and agent design
+- **Kesslernity on LinkedIn:** [company Page](https://www.linkedin.com/company/kesslernity/?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=stay_updated): Copilot governance and rollout notes as they ship
 - **Subscribe on YouTube:** [@Kesslernity](https://www.youtube.com/@Kesslernity?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=stay_updated): Copilot walkthroughs and agent builds
 
 ---
