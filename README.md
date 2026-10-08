@@ -372,6 +372,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and [AUTHORING-CHECKLIST.md](AUTHORING-CH
 - **[Free AI Course](https://trainings.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=quicklinks)**: AI Quick Start Essentials (35 min, free)
 - **[365 Copilot Prompts](https://github.com/kesslernity/awesome-microsoft-copilot-prompts)**: the companion prompts repository
 - **[Free Copilot Guides](https://www.kesslernity.com/guides?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=quicklinks)**: 28 reference guides, no account required
+- **[Should this process exist?](https://www.kesslernity.com/tools/triage-floor?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=tool_triage_floor)**: free browser tool, ten evidence questions and six gates, no signup
 - **[YouTube](https://www.youtube.com/@Kesslernity?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=quicklinks)**: Copilot walkthroughs and agent builds
 - **[License](https://creativecommons.org/licenses/by-sa/4.0/)**: CC BY-SA 4.0
 
