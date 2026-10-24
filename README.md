@@ -318,6 +318,10 @@ The library contains 103 agents across 17 domains and two industry packs, EPC & 
 
 ## Related Resources
 
+**Working inside Excel or PowerPoint rather than building an agent?**
+
+[**Awesome Copilot Office Skills →**](https://github.com/kesslernity/awesome-copilot-office-skills?utm_source=github&utm_medium=repo&utm_campaign=office-skills): 24 custom skills that run inside Copilot in Excel and Copilot in PowerPoint, no agent required. Same `SKILL.md` format, a different surface and a different install path.
+
 **On Copilot Chat, not the premium licence?**
 
 [**Awesome Copilot Chat Agents →**](https://github.com/kesslernity/awesome-copilot-chat-agents): 82 ready-to-deploy agents built for **Copilot Chat, no premium M365 Copilot licence required**. Works on any commercial M365 plan, no SharePoint grounding needed. The companion to this repo for the majority of your org that isn't on the paid Copilot seat.
