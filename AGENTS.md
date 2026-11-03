@@ -331,7 +331,7 @@ Start free with the [Licence-Plate Test](https://store.kesslernity.com/l/licence
 
 **More free Copilot reference?**
 
-[**M365 Copilot Field Guide →**](https://www.kesslernity.com/guides?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md_related): 27 reference guides, a decision map and a failure triage table. Browser-readable, print-ready, no account required.
+[**M365 Copilot Field Guide →**](https://www.kesslernity.com/guides?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md_related): 29 reference guides, a decision map and a failure triage table. Browser-readable, print-ready, no account required.
 
 ---
 
@@ -364,7 +364,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) and [AUTHORING-CHECKLIST.md](AUTHORING-CH
 - **[AI at Work Newsletter](https://newsletter.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md_ql)**: biweekly GenAI briefing
 - **[Free AI Course](https://trainings.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md_ql)**: AI Quick Start Essentials (35 min, free)
 - **[365 Copilot Prompts](https://github.com/kesslernity/awesome-microsoft-copilot-prompts)**: the companion prompts repository
-- **[Free Copilot Guides](https://www.kesslernity.com/guides?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md_ql)**: 27 reference guides, no account required
+- **[Free Copilot Guides](https://www.kesslernity.com/guides?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md_ql)**: 29 reference guides, no account required
 - **[Kesslernity Store](https://www.kesslernity.com/store?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md_ql)**: deployment tools for M365 Copilot teams
 - **[License](https://creativecommons.org/licenses/by-sa/4.0/)**: CC BY-SA 4.0
 
