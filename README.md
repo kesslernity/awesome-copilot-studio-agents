@@ -23,7 +23,7 @@ Want to go beyond agents? **AI Quick Start Essentials** is a free 35-minute cour
 
 **[Start the free course →](https://trainings.kesslernity.com/?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=hero)**: no credit card, you just need an account.
 
-**New:** [M365 Copilot Field Guide](https://www.kesslernity.com/guides?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=field_guide): 29 free interactive reference guides (decision map, failure triage, one guide per feature)
+**New:** [M365 Copilot Field Guide](https://www.kesslernity.com/guides?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=field_guide): 30 free interactive reference guides (decision map, failure triage, one guide per feature)
 
 ---
 
@@ -293,7 +293,7 @@ it read their private files.
 - **[The Copilot Rollout Bundle, $134](https://store.kesslernity.com/l/copilot-rollout-bundle?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=paid_block_bundle)**, recommended if you are rolling Copilot out
   across a tenant. The Deployment Kit, The Real Cost of Copilot and the Honest Kit together,
   $134 instead of $165.
-- **[The M365 Copilot Deployment Kit, $97](https://store.kesslernity.com/l/kpfpi?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=paid_block_kit)** on its own: 28 field guides, a 90-day rollout
+- **[The M365 Copilot Deployment Kit, $97](https://store.kesslernity.com/l/kpfpi?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=paid_block_kit)** on its own: 29 field guides, a 90-day rollout
   roadmap, 10 agent templates with notes on what breaks in week one, a governance checklist and the
   ROI conversation for the budget meeting. One-time, no subscription, and the licence covers
   internal use across your organisation rather than one seat.
