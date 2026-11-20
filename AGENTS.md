@@ -30,7 +30,7 @@ The **[M365 Copilot Deployment Kit](https://www.kesslernity.com/kit?utm_source=g
 
 **[See what is in the kit →](https://www.kesslernity.com/kit?utm_source=github&utm_medium=readme&utm_campaign=studio_repo&utm_content=agents_md)**
 
-Rolling it out across a team? There is no self-serve seat pack. Email mathieu@kesslernity.com with the headcount and it comes back as one quote and one invoice, with a bank transfer option if procurement prefers that to a card.
+Rolling it out across a team? One purchase covers your organisation's internal use, with no headcount to count. Other legal entities, including parent, sister and subsidiary companies, need their own licence. Need a single invoice, or a bank transfer instead of a card? Email mathieu@kesslernity.com.
 
 ---
 
